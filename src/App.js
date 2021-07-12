@@ -1,23 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import axios from "axios";
+import { useState } from "react";
+import "./App.css";
 
 function App() {
+  const [benchmarkName, setBenchmarkName] = useState("")
+  const [benchmarkResults, setBenchmarkResults] = useState([])
+
+
+  const startBenchmarking = () => {
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div class="container py-4">
+      <div class="row justify-content-center">
+        <div class="col-4">
+          <input
+            class="w-100 form-control"
+            type="text"
+            placeholder="Test Name"
+            value={benchmarkName}
+            onChange={(e) => setBenchmarkName(e.target.value)}
+          />
+        </div>
+        <div class="col-1">
+          <button onClick={startBenchmarking} class="btn btn-primary">Start</button>
+        </div>
+      </div>
     </div>
   );
 }
