@@ -1,0 +1,8412 @@
+{
+  "Bruteforce ": [
+    {
+      "testcaseId": 0,
+      "processingTime": 4575.671222000001,
+      "score": -15,
+      "visits": 973229
+    },
+    {
+      "testcaseId": 1,
+      "processingTime": 1242.564975,
+      "score": 60.300000000000004,
+      "visits": 135723
+    },
+    {
+      "testcaseId": 2,
+      "processingTime": 799.567188,
+      "score": 0,
+      "visits": 182258
+    },
+    {
+      "testcaseId": 3,
+      "processingTime": 47.161278,
+      "score": 11.900000000000002,
+      "visits": 1457
+    },
+    {
+      "testcaseId": 4,
+      "processingTime": 6044.043405,
+      "score": 27.3,
+      "visits": 1583853
+    },
+    {
+      "testcaseId": 5,
+      "processingTime": 14593.497229,
+      "score": -12,
+      "visits": 3297902
+    },
+    {
+      "testcaseId": 6,
+      "processingTime": 758.475058,
+      "score": 2.8000000000000003,
+      "visits": 150650
+    },
+    {
+      "testcaseId": 7,
+      "processingTime": 561.575471,
+      "score": 9.5,
+      "visits": 115999
+    },
+    {
+      "testcaseId": 8,
+      "processingTime": 70.880441,
+      "score": -6.2,
+      "visits": 14101
+    },
+    {
+      "testcaseId": 9,
+      "processingTime": 27.434968,
+      "score": 6.700000000000001,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 10,
+      "processingTime": 26166.468796,
+      "score": 19.400000000000002,
+      "visits": 4965008
+    },
+    {
+      "testcaseId": 11,
+      "processingTime": 166.754145,
+      "score": -10.299999999999999,
+      "visits": 33107
+    },
+    {
+      "testcaseId": 12,
+      "processingTime": 753.645585,
+      "score": 0,
+      "visits": 150650
+    },
+    {
+      "testcaseId": 13,
+      "processingTime": 1157.892759,
+      "score": 4.200000000000001,
+      "visits": 217799
+    },
+    {
+      "testcaseId": 14,
+      "processingTime": 865.0023610000001,
+      "score": -4.6,
+      "visits": 173882
+    },
+    {
+      "testcaseId": 15,
+      "processingTime": 4370.4841639999995,
+      "score": -9,
+      "visits": 1213648
+    },
+    {
+      "testcaseId": 16,
+      "processingTime": 806.513371,
+      "score": -4.9,
+      "visits": 179165
+    },
+    {
+      "testcaseId": 17,
+      "processingTime": 44.119535,
+      "score": 15.100000000000001,
+      "visits": 17819
+    },
+    {
+      "testcaseId": 18,
+      "processingTime": 24.982985,
+      "score": 2.400000000000001,
+      "visits": 4635
+    },
+    {
+      "testcaseId": 19,
+      "processingTime": 3963.658665,
+      "score": 60,
+      "visits": 758245
+    },
+    {
+      "testcaseId": 20,
+      "processingTime": 1554.770522,
+      "score": 14.100000000000001,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 21,
+      "processingTime": 5480.134496,
+      "score": 61,
+      "visits": 1027507
+    },
+    {
+      "testcaseId": 22,
+      "processingTime": 1099.3091290000002,
+      "score": 22.5,
+      "visits": 205772
+    },
+    {
+      "testcaseId": 23,
+      "processingTime": 878.7516039999999,
+      "score": -8,
+      "visits": 247934
+    },
+    {
+      "testcaseId": 24,
+      "processingTime": 921.838967,
+      "score": -19.8,
+      "visits": 182258
+    },
+    {
+      "testcaseId": 25,
+      "processingTime": 950.687752,
+      "score": -14.100000000000001,
+      "visits": 250443
+    },
+    {
+      "testcaseId": 26,
+      "processingTime": 441.933831,
+      "score": 18.8,
+      "visits": 85451
+    },
+    {
+      "testcaseId": 27,
+      "processingTime": 10882.217593,
+      "score": -16.700000000000003,
+      "visits": 2544374
+    },
+    {
+      "testcaseId": 28,
+      "processingTime": 294.95744099999996,
+      "score": 6.9,
+      "visits": 67148
+    },
+    {
+      "testcaseId": 29,
+      "processingTime": 478.65474,
+      "score": 16.35,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 30,
+      "processingTime": 9.630321,
+      "score": 2.3000000000000003,
+      "visits": 2672
+    },
+    {
+      "testcaseId": 31,
+      "processingTime": 1155.700795,
+      "score": 57.6,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 32,
+      "processingTime": 726.226591,
+      "score": 33.1,
+      "visits": 153131
+    },
+    {
+      "testcaseId": 33,
+      "processingTime": 530.0295689999999,
+      "score": -48.6,
+      "visits": 114819
+    },
+    {
+      "testcaseId": 34,
+      "processingTime": 3181.721343,
+      "score": 10.2,
+      "visits": 716104
+    },
+    {
+      "testcaseId": 35,
+      "processingTime": 1.0965610000000001,
+      "score": 0,
+      "visits": 329
+    },
+    {
+      "testcaseId": 36,
+      "processingTime": 29.110180999999997,
+      "score": 4.900000000000001,
+      "visits": 5587
+    },
+    {
+      "testcaseId": 37,
+      "processingTime": 45.017423,
+      "score": 13.4,
+      "visits": 6531
+    },
+    {
+      "testcaseId": 38,
+      "processingTime": 134.96295,
+      "score": -16.8,
+      "visits": 27351
+    },
+    {
+      "testcaseId": 39,
+      "processingTime": 158.22125400000002,
+      "score": 29.5,
+      "visits": 29795
+    },
+    {
+      "testcaseId": 40,
+      "processingTime": 489.432773,
+      "score": -4,
+      "visits": 115999
+    },
+    {
+      "testcaseId": 41,
+      "processingTime": 1830.8794420000002,
+      "score": 14.100000000000001,
+      "visits": 289586
+    },
+    {
+      "testcaseId": 42,
+      "processingTime": 31274.755742,
+      "score": -2.3,
+      "visits": 6194325
+    },
+    {
+      "testcaseId": 43,
+      "processingTime": 210.58326699999998,
+      "score": -3,
+      "visits": 59967
+    },
+    {
+      "testcaseId": 44,
+      "processingTime": 5899.115476000001,
+      "score": -54.300000000000004,
+      "visits": 1583853
+    },
+    {
+      "testcaseId": 45,
+      "processingTime": 28.286847,
+      "score": -4.4,
+      "visits": 8819
+    },
+    {
+      "testcaseId": 46,
+      "processingTime": 6.195807,
+      "score": 30.400000000000002,
+      "visits": 2189
+    },
+    {
+      "testcaseId": 47,
+      "processingTime": 397.65831299999996,
+      "score": 54.400000000000006,
+      "visits": 75733
+    },
+    {
+      "testcaseId": 48,
+      "processingTime": 7.223553,
+      "score": 0,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 49,
+      "processingTime": 1.914308,
+      "score": 22.8,
+      "visits": 274
+    },
+    {
+      "testcaseId": 50,
+      "processingTime": 15.673069000000002,
+      "score": 6.600000000000001,
+      "visits": 4805
+    },
+    {
+      "testcaseId": 51,
+      "processingTime": 120.447049,
+      "score": 22.3,
+      "visits": 19987
+    },
+    {
+      "testcaseId": 52,
+      "processingTime": 1412.219434,
+      "score": 3.3,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 53,
+      "processingTime": 83.160438,
+      "score": -13.6,
+      "visits": 20897
+    },
+    {
+      "testcaseId": 54,
+      "processingTime": 904.555548,
+      "score": -35.1,
+      "visits": 178208
+    },
+    {
+      "testcaseId": 55,
+      "processingTime": 12408.154338999999,
+      "score": 3,
+      "visits": 3043222
+    },
+    {
+      "testcaseId": 56,
+      "processingTime": 52.177841,
+      "score": -8,
+      "visits": 16415
+    },
+    {
+      "testcaseId": 57,
+      "processingTime": 230.009008,
+      "score": -3,
+      "visits": 69697
+    },
+    {
+      "testcaseId": 58,
+      "processingTime": 29.699693,
+      "score": 1.8,
+      "visits": 9449
+    },
+    {
+      "testcaseId": 59,
+      "processingTime": 10.662658,
+      "score": 16,
+      "visits": 3629
+    },
+    {
+      "testcaseId": 60,
+      "processingTime": 995.945266,
+      "score": -1.3,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 61,
+      "processingTime": 3747.179633,
+      "score": 17.6,
+      "visits": 821757
+    },
+    {
+      "testcaseId": 62,
+      "processingTime": 17147.050440000003,
+      "score": -4.199999999999999,
+      "visits": 3759537
+    },
+    {
+      "testcaseId": 63,
+      "processingTime": 1087.342821,
+      "score": 18.7,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 64,
+      "processingTime": 1511.510633,
+      "score": 17.8,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 65,
+      "processingTime": 4867.105852,
+      "score": -12.3,
+      "visits": 1058190
+    },
+    {
+      "testcaseId": 66,
+      "processingTime": 4.84277,
+      "score": -10.8,
+      "visits": 1628
+    },
+    {
+      "testcaseId": 67,
+      "processingTime": 28.906653000000002,
+      "score": -4.45,
+      "visits": 10139
+    },
+    {
+      "testcaseId": 68,
+      "processingTime": 66.821403,
+      "score": 14.400000000000002,
+      "visits": 21295
+    },
+    {
+      "testcaseId": 69,
+      "processingTime": 45.635565,
+      "score": 9.4,
+      "visits": 10759
+    },
+    {
+      "testcaseId": 70,
+      "processingTime": 1743.795124,
+      "score": 41.6,
+      "visits": 289586
+    },
+    {
+      "testcaseId": 71,
+      "processingTime": 961.718707,
+      "score": 10.100000000000001,
+      "visits": 317811
+    },
+    {
+      "testcaseId": 72,
+      "processingTime": 127.38861600000001,
+      "score": -7.699999999999999,
+      "visits": 41403
+    },
+    {
+      "testcaseId": 73,
+      "processingTime": 715.650527,
+      "score": -16.2,
+      "visits": 150644
+    },
+    {
+      "testcaseId": 74,
+      "processingTime": 3032.034699,
+      "score": -5,
+      "visits": 732709
+    },
+    {
+      "testcaseId": 75,
+      "processingTime": 26.912018,
+      "score": -21.9,
+      "visits": 5057
+    },
+    {
+      "testcaseId": 76,
+      "processingTime": 198.506887,
+      "score": -9.6,
+      "visits": 62924
+    },
+    {
+      "testcaseId": 77,
+      "processingTime": 6.676078,
+      "score": 6.100000000000001,
+      "visits": 2267
+    },
+    {
+      "testcaseId": 78,
+      "processingTime": 699.1910839999999,
+      "score": 17.6,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 79,
+      "processingTime": 153.60816499999999,
+      "score": 19.400000000000002,
+      "visits": 42091
+    },
+    {
+      "testcaseId": 80,
+      "processingTime": 702.7227969999999,
+      "score": -13.3,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 81,
+      "processingTime": 757.069723,
+      "score": 0,
+      "visits": 179165
+    },
+    {
+      "testcaseId": 82,
+      "processingTime": 66.307854,
+      "score": -6.6000000000000005,
+      "visits": 8027
+    },
+    {
+      "testcaseId": 83,
+      "processingTime": 17.723358,
+      "score": -3.4000000000000004,
+      "visits": 3615
+    },
+    {
+      "testcaseId": 84,
+      "processingTime": 777.467518,
+      "score": -28.800000000000004,
+      "visits": 161217
+    },
+    {
+      "testcaseId": 85,
+      "processingTime": 1666.59734,
+      "score": 24.200000000000003,
+      "visits": 317414
+    },
+    {
+      "testcaseId": 86,
+      "processingTime": 664.8886309999999,
+      "score": 18.2,
+      "visits": 165768
+    },
+    {
+      "testcaseId": 87,
+      "processingTime": 1593.890715,
+      "score": 16.4,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 88,
+      "processingTime": 711.399569,
+      "score": 8.9,
+      "visits": 153131
+    },
+    {
+      "testcaseId": 89,
+      "processingTime": 1326.199408,
+      "score": 7.800000000000001,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 90,
+      "processingTime": 652.995706,
+      "score": -12,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 91,
+      "processingTime": 14271.182641,
+      "score": 14.8,
+      "visits": 3240666
+    },
+    {
+      "testcaseId": 92,
+      "processingTime": 2457.7492460000003,
+      "score": 6.299999999999999,
+      "visits": 569661
+    },
+    {
+      "testcaseId": 93,
+      "processingTime": 3603.790809,
+      "score": 0,
+      "visits": 886535
+    },
+    {
+      "testcaseId": 94,
+      "processingTime": 455.953386,
+      "score": 14.850000000000001,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 95,
+      "processingTime": 4664.171836,
+      "score": -21.200000000000003,
+      "visits": 1263245
+    },
+    {
+      "testcaseId": 96,
+      "processingTime": 114.459027,
+      "score": 33.1,
+      "visits": 19381
+    },
+    {
+      "testcaseId": 97,
+      "processingTime": 578.143163,
+      "score": 24.700000000000003,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 98,
+      "processingTime": 6.247287,
+      "score": -20.5,
+      "visits": 2015
+    },
+    {
+      "testcaseId": 99,
+      "processingTime": 205.43963000000002,
+      "score": -19.6,
+      "visits": 53351
+    },
+    {
+      "testcaseId": 100,
+      "processingTime": 1034.97466,
+      "score": 8.8,
+      "visits": 205772
+    },
+    {
+      "testcaseId": 101,
+      "processingTime": 514.8179980000001,
+      "score": 4.8,
+      "visits": 124643
+    },
+    {
+      "testcaseId": 102,
+      "processingTime": 63.700973999999995,
+      "score": -17.4,
+      "visits": 22967
+    },
+    {
+      "testcaseId": 103,
+      "processingTime": 104.801197,
+      "score": -6.2,
+      "visits": 23659
+    },
+    {
+      "testcaseId": 104,
+      "processingTime": 185.428774,
+      "score": -0.6,
+      "visits": 50531
+    },
+    {
+      "testcaseId": 105,
+      "processingTime": 20.126815999999998,
+      "score": -5.2,
+      "visits": 4535
+    },
+    {
+      "testcaseId": 106,
+      "processingTime": 581.8059850000001,
+      "score": -3.8500000000000005,
+      "visits": 107039
+    },
+    {
+      "testcaseId": 107,
+      "processingTime": 875.486911,
+      "score": -5,
+      "visits": 196217
+    },
+    {
+      "testcaseId": 108,
+      "processingTime": 59.012763,
+      "score": -1.0999999999999996,
+      "visits": 18092
+    },
+    {
+      "testcaseId": 109,
+      "processingTime": 106.44131900000001,
+      "score": 18.2,
+      "visits": 26519
+    },
+    {
+      "testcaseId": 110,
+      "processingTime": 100.351057,
+      "score": 1.5,
+      "visits": 18424
+    },
+    {
+      "testcaseId": 111,
+      "processingTime": 1041.993662,
+      "score": -13,
+      "visits": 244763
+    },
+    {
+      "testcaseId": 112,
+      "processingTime": 19.515436,
+      "score": -13.4,
+      "visits": 3891
+    },
+    {
+      "testcaseId": 113,
+      "processingTime": 818.158085,
+      "score": 59.2,
+      "visits": 240799
+    },
+    {
+      "testcaseId": 114,
+      "processingTime": 95.594141,
+      "score": -4,
+      "visits": 26779
+    },
+    {
+      "testcaseId": 115,
+      "processingTime": 14.873631,
+      "score": -4,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 116,
+      "processingTime": 584.115946,
+      "score": 35.15,
+      "visits": 178855
+    },
+    {
+      "testcaseId": 117,
+      "processingTime": 5191.843221,
+      "score": -5,
+      "visits": 1376725
+    },
+    {
+      "testcaseId": 118,
+      "processingTime": 20966.979826,
+      "score": 19.1,
+      "visits": 4297018
+    },
+    {
+      "testcaseId": 119,
+      "processingTime": 156.281373,
+      "score": 7,
+      "visits": 47684
+    },
+    {
+      "testcaseId": 120,
+      "processingTime": 451.022916,
+      "score": -17.200000000000003,
+      "visits": 106975
+    },
+    {
+      "testcaseId": 121,
+      "processingTime": 1042.50154,
+      "score": -4,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 122,
+      "processingTime": 2.3261979999999998,
+      "score": 3.7000000000000006,
+      "visits": 679
+    },
+    {
+      "testcaseId": 123,
+      "processingTime": 811.9851289999999,
+      "score": -32.900000000000006,
+      "visits": 173888
+    },
+    {
+      "testcaseId": 124,
+      "processingTime": 21080.774502,
+      "score": 22.1,
+      "visits": 4348632
+    },
+    {
+      "testcaseId": 125,
+      "processingTime": 845.723656,
+      "score": -19,
+      "visits": 182258
+    },
+    {
+      "testcaseId": 126,
+      "processingTime": 3122.453818,
+      "score": 6.6,
+      "visits": 663801
+    },
+    {
+      "testcaseId": 127,
+      "processingTime": 1215.719829,
+      "score": 0.3,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 128,
+      "processingTime": 9452.352695,
+      "score": 23.4,
+      "visits": 2310687
+    },
+    {
+      "testcaseId": 129,
+      "processingTime": 508.58392900000007,
+      "score": 15.5,
+      "visits": 113630
+    },
+    {
+      "testcaseId": 130,
+      "processingTime": 100.970468,
+      "score": 13.100000000000001,
+      "visits": 32939
+    },
+    {
+      "testcaseId": 131,
+      "processingTime": 35.48954,
+      "score": 6.6,
+      "visits": 9811
+    },
+    {
+      "testcaseId": 132,
+      "processingTime": 1371.104251,
+      "score": 48.6,
+      "visits": 493315
+    },
+    {
+      "testcaseId": 133,
+      "processingTime": 3732.4291500000004,
+      "score": 11.600000000000001,
+      "visits": 820409
+    },
+    {
+      "testcaseId": 134,
+      "processingTime": 2.5116140000000002,
+      "score": 9.600000000000001,
+      "visits": 827
+    },
+    {
+      "testcaseId": 135,
+      "processingTime": 2.123692,
+      "score": 6.9,
+      "visits": 359
+    },
+    {
+      "testcaseId": 136,
+      "processingTime": 29.682254,
+      "score": 12.3,
+      "visits": 8291
+    },
+    {
+      "testcaseId": 137,
+      "processingTime": 36.05532,
+      "score": -19.3,
+      "visits": 10337
+    },
+    {
+      "testcaseId": 138,
+      "processingTime": 141.82165799999999,
+      "score": -13.200000000000001,
+      "visits": 36192
+    },
+    {
+      "testcaseId": 139,
+      "processingTime": 25.173773999999998,
+      "score": 3,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 140,
+      "processingTime": 10.432871,
+      "score": -5.6,
+      "visits": 1649
+    },
+    {
+      "testcaseId": 141,
+      "processingTime": 5334.6669,
+      "score": 21.900000000000002,
+      "visits": 1036246
+    },
+    {
+      "testcaseId": 142,
+      "processingTime": 32.290864,
+      "score": -19.8,
+      "visits": 6857
+    },
+    {
+      "testcaseId": 143,
+      "processingTime": 64.014533,
+      "score": -4.8,
+      "visits": 21145
+    },
+    {
+      "testcaseId": 144,
+      "processingTime": 15.422175,
+      "score": -14.8,
+      "visits": 3341
+    },
+    {
+      "testcaseId": 145,
+      "processingTime": 449.804946,
+      "score": -0.8999999999999999,
+      "visits": 115113
+    },
+    {
+      "testcaseId": 146,
+      "processingTime": 17.03255,
+      "score": -1.3,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 147,
+      "processingTime": 693.605464,
+      "score": 8.3,
+      "visits": 150644
+    },
+    {
+      "testcaseId": 148,
+      "processingTime": 33.862864,
+      "score": -14.9,
+      "visits": 8693
+    },
+    {
+      "testcaseId": 149,
+      "processingTime": 3471.0306229999997,
+      "score": 30,
+      "visits": 786497
+    },
+    {
+      "testcaseId": 150,
+      "processingTime": 19.368448,
+      "score": -48.1,
+      "visits": 4784
+    },
+    {
+      "testcaseId": 151,
+      "processingTime": 89.181581,
+      "score": -30,
+      "visits": 10838
+    },
+    {
+      "testcaseId": 152,
+      "processingTime": 709.694065,
+      "score": -2.1999999999999993,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 153,
+      "processingTime": 116.105239,
+      "score": -3.5999999999999996,
+      "visits": 29684
+    },
+    {
+      "testcaseId": 154,
+      "processingTime": 212.72152,
+      "score": -11.4,
+      "visits": 53502
+    },
+    {
+      "testcaseId": 155,
+      "processingTime": 3588.740724,
+      "score": -10.9,
+      "visits": 851290
+    },
+    {
+      "testcaseId": 156,
+      "processingTime": 152.686442,
+      "score": -11.700000000000001,
+      "visits": 31951
+    },
+    {
+      "testcaseId": 157,
+      "processingTime": 1144.5675769999998,
+      "score": 17.7,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 158,
+      "processingTime": 5874.485649,
+      "score": 0,
+      "visits": 1568744
+    },
+    {
+      "testcaseId": 159,
+      "processingTime": 72.111695,
+      "score": -16.400000000000002,
+      "visits": 12993
+    },
+    {
+      "testcaseId": 160,
+      "processingTime": 767.905839,
+      "score": 39.00000000000001,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 161,
+      "processingTime": 449.065885,
+      "score": 39,
+      "visits": 129513
+    },
+    {
+      "testcaseId": 162,
+      "processingTime": 85.38507200000001,
+      "score": -5.9,
+      "visits": 19479
+    },
+    {
+      "testcaseId": 163,
+      "processingTime": 92.053413,
+      "score": -30.4,
+      "visits": 28081
+    },
+    {
+      "testcaseId": 164,
+      "processingTime": 1633.881666,
+      "score": -11.6,
+      "visits": 413643
+    },
+    {
+      "testcaseId": 165,
+      "processingTime": 530.373757,
+      "score": -60.2,
+      "visits": 167748
+    },
+    {
+      "testcaseId": 166,
+      "processingTime": 6.136234,
+      "score": 7,
+      "visits": 1271
+    },
+    {
+      "testcaseId": 167,
+      "processingTime": 4.297403,
+      "score": -11.5,
+      "visits": 1565
+    },
+    {
+      "testcaseId": 168,
+      "processingTime": 1034.265044,
+      "score": 10.299999999999999,
+      "visits": 200381
+    },
+    {
+      "testcaseId": 169,
+      "processingTime": 346.682292,
+      "score": -11.600000000000001,
+      "visits": 75099
+    },
+    {
+      "testcaseId": 170,
+      "processingTime": 27.264074,
+      "score": 57.800000000000004,
+      "visits": 7233
+    },
+    {
+      "testcaseId": 171,
+      "processingTime": 15.936804999999998,
+      "score": -19.200000000000003,
+      "visits": 2763
+    },
+    {
+      "testcaseId": 172,
+      "processingTime": 469.832914,
+      "score": -13.8,
+      "visits": 100042
+    },
+    {
+      "testcaseId": 173,
+      "processingTime": 18.822998000000002,
+      "score": 9.000000000000002,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 174,
+      "processingTime": 125.43578899999999,
+      "score": 15.600000000000003,
+      "visits": 39323
+    },
+    {
+      "testcaseId": 175,
+      "processingTime": 235.33616099999998,
+      "score": 5.800000000000001,
+      "visits": 58253
+    },
+    {
+      "testcaseId": 176,
+      "processingTime": 590.388697,
+      "score": 9.9,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 177,
+      "processingTime": 2176.514329,
+      "score": 9.1,
+      "visits": 499046
+    },
+    {
+      "testcaseId": 178,
+      "processingTime": 193.528235,
+      "score": 2,
+      "visits": 53366
+    },
+    {
+      "testcaseId": 179,
+      "processingTime": 297.471471,
+      "score": 4.600000000000001,
+      "visits": 75800
+    },
+    {
+      "testcaseId": 180,
+      "processingTime": 972.7652850000001,
+      "score": 16.6,
+      "visits": 217799
+    },
+    {
+      "testcaseId": 181,
+      "processingTime": 66.319915,
+      "score": 13.2,
+      "visits": 20184
+    },
+    {
+      "testcaseId": 182,
+      "processingTime": 995.5215440000001,
+      "score": -5.8,
+      "visits": 215944
+    },
+    {
+      "testcaseId": 183,
+      "processingTime": 412.78688400000004,
+      "score": 2.4,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 184,
+      "processingTime": 9151.298665,
+      "score": 0.3,
+      "visits": 2310687
+    },
+    {
+      "testcaseId": 185,
+      "processingTime": 215.618641,
+      "score": 12,
+      "visits": 41243
+    },
+    {
+      "testcaseId": 186,
+      "processingTime": 3837.258544,
+      "score": 10.600000000000001,
+      "visits": 852757
+    },
+    {
+      "testcaseId": 187,
+      "processingTime": 3801.652707,
+      "score": 18.900000000000002,
+      "visits": 722812
+    },
+    {
+      "testcaseId": 188,
+      "processingTime": 10922.588039,
+      "score": -12,
+      "visits": 2774321
+    },
+    {
+      "testcaseId": 189,
+      "processingTime": 3516.227653,
+      "score": 0,
+      "visits": 851290
+    },
+    {
+      "testcaseId": 190,
+      "processingTime": 12.784257,
+      "score": -12.9,
+      "visits": 3827
+    },
+    {
+      "testcaseId": 191,
+      "processingTime": 6604.639167,
+      "score": 41,
+      "visits": 1505702
+    },
+    {
+      "testcaseId": 192,
+      "processingTime": 48.751577999999995,
+      "score": -16.9,
+      "visits": 15719
+    },
+    {
+      "testcaseId": 193,
+      "processingTime": 16.304071999999998,
+      "score": -0.8999999999999999,
+      "visits": 4640
+    },
+    {
+      "testcaseId": 194,
+      "processingTime": 1497.7139909999999,
+      "score": 2.1,
+      "visits": 375483
+    },
+    {
+      "testcaseId": 195,
+      "processingTime": 131.219532,
+      "score": 3.8000000000000003,
+      "visits": 54563
+    },
+    {
+      "testcaseId": 196,
+      "processingTime": 749.08089,
+      "score": -29.700000000000003,
+      "visits": 150644
+    },
+    {
+      "testcaseId": 197,
+      "processingTime": 150.216758,
+      "score": -0.6,
+      "visits": 34031
+    },
+    {
+      "testcaseId": 198,
+      "processingTime": 1160.290864,
+      "score": -8.8,
+      "visits": 215944
+    },
+    {
+      "testcaseId": 199,
+      "processingTime": 1025.5109499999999,
+      "score": 58.800000000000004,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 200,
+      "processingTime": 28.815569999999997,
+      "score": 2.7,
+      "visits": 6134
+    },
+    {
+      "testcaseId": 201,
+      "processingTime": 27.907274,
+      "score": -41.1,
+      "visits": 7233
+    },
+    {
+      "testcaseId": 202,
+      "processingTime": 206.490876,
+      "score": -4.8,
+      "visits": 61778
+    },
+    {
+      "testcaseId": 203,
+      "processingTime": 595.722341,
+      "score": 4.8,
+      "visits": 139199
+    },
+    {
+      "testcaseId": 204,
+      "processingTime": 35.508244000000005,
+      "score": -16.1,
+      "visits": 8117
+    },
+    {
+      "testcaseId": 205,
+      "processingTime": 17.832562,
+      "score": -0.6,
+      "visits": 5249
+    },
+    {
+      "testcaseId": 206,
+      "processingTime": 17.818472,
+      "score": -18.7,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 207,
+      "processingTime": 127.51152900000001,
+      "score": -28.700000000000003,
+      "visits": 37583
+    },
+    {
+      "testcaseId": 208,
+      "processingTime": 591.708296,
+      "score": 0,
+      "visits": 141196
+    },
+    {
+      "testcaseId": 209,
+      "processingTime": 742.2143580000001,
+      "score": -4.9,
+      "visits": 218882
+    },
+    {
+      "testcaseId": 210,
+      "processingTime": 3474.152497,
+      "score": -4.45,
+      "visits": 820409
+    },
+    {
+      "testcaseId": 211,
+      "processingTime": 204.704806,
+      "score": -3.4,
+      "visits": 60259
+    },
+    {
+      "testcaseId": 212,
+      "processingTime": 24.055402,
+      "score": 0,
+      "visits": 9143
+    },
+    {
+      "testcaseId": 213,
+      "processingTime": 447.832473,
+      "score": -21.6,
+      "visits": 128465
+    },
+    {
+      "testcaseId": 214,
+      "processingTime": 104.75391400000001,
+      "score": 7,
+      "visits": 19381
+    },
+    {
+      "testcaseId": 215,
+      "processingTime": 1787.181863,
+      "score": -19,
+      "visits": 283313
+    },
+    {
+      "testcaseId": 216,
+      "processingTime": 336.64112,
+      "score": 0.9,
+      "visits": 104218
+    },
+    {
+      "testcaseId": 217,
+      "processingTime": 44.823801,
+      "score": -9.700000000000001,
+      "visits": 11195
+    },
+    {
+      "testcaseId": 218,
+      "processingTime": 2383.36545,
+      "score": -10.8,
+      "visits": 575747
+    },
+    {
+      "testcaseId": 219,
+      "processingTime": 30.764411,
+      "score": 10.8,
+      "visits": 5119
+    },
+    {
+      "testcaseId": 220,
+      "processingTime": 41.81673000000001,
+      "score": -2.4,
+      "visits": 15433
+    },
+    {
+      "testcaseId": 221,
+      "processingTime": 65.255908,
+      "score": 21.4,
+      "visits": 14237
+    },
+    {
+      "testcaseId": 222,
+      "processingTime": 31.726901,
+      "score": -39.1,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 223,
+      "processingTime": 21.633207000000002,
+      "score": -9,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 224,
+      "processingTime": 9.229285,
+      "score": 14.25,
+      "visits": 3266
+    },
+    {
+      "testcaseId": 225,
+      "processingTime": 1151.769474,
+      "score": 0,
+      "visits": 323876
+    },
+    {
+      "testcaseId": 226,
+      "processingTime": 152.565699,
+      "score": 7.2,
+      "visits": 27475
+    },
+    {
+      "testcaseId": 227,
+      "processingTime": 1061.544107,
+      "score": -13.200000000000001,
+      "visits": 208337
+    },
+    {
+      "testcaseId": 228,
+      "processingTime": 422.335423,
+      "score": -3.3,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 229,
+      "processingTime": 41.5692,
+      "score": 53.50000000000001,
+      "visits": 11565
+    },
+    {
+      "testcaseId": 230,
+      "processingTime": 289.397331,
+      "score": 11.3,
+      "visits": 69999
+    },
+    {
+      "testcaseId": 231,
+      "processingTime": 411.77108200000004,
+      "score": 19.1,
+      "visits": 133409
+    },
+    {
+      "testcaseId": 232,
+      "processingTime": 16.048908,
+      "score": -19.2,
+      "visits": 6248
+    },
+    {
+      "testcaseId": 233,
+      "processingTime": 520.8221589999999,
+      "score": -4,
+      "visits": 131852
+    },
+    {
+      "testcaseId": 234,
+      "processingTime": 275.740288,
+      "score": 44.7,
+      "visits": 68909
+    },
+    {
+      "testcaseId": 235,
+      "processingTime": 13.042705,
+      "score": -45.1,
+      "visits": 4715
+    },
+    {
+      "testcaseId": 236,
+      "processingTime": 253.78989099999998,
+      "score": -0.3,
+      "visits": 55399
+    },
+    {
+      "testcaseId": 237,
+      "processingTime": 21737.978952999998,
+      "score": 0,
+      "visits": 4660830
+    },
+    {
+      "testcaseId": 238,
+      "processingTime": 745.374106,
+      "score": -19.150000000000002,
+      "visits": 160979
+    },
+    {
+      "testcaseId": 239,
+      "processingTime": 297.54454699999997,
+      "score": -5.1000000000000005,
+      "visits": 75800
+    },
+    {
+      "testcaseId": 240,
+      "processingTime": 16.631384,
+      "score": 7,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 241,
+      "processingTime": 743.414121,
+      "score": -2,
+      "visits": 225943
+    },
+    {
+      "testcaseId": 242,
+      "processingTime": 311.70991799999996,
+      "score": 7.850000000000001,
+      "visits": 74847
+    },
+    {
+      "testcaseId": 243,
+      "processingTime": 1116.756956,
+      "score": 16.450000000000003,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 244,
+      "processingTime": 28.65428,
+      "score": 20.4,
+      "visits": 7117
+    },
+    {
+      "testcaseId": 245,
+      "processingTime": 21.100308000000002,
+      "score": 11.400000000000002,
+      "visits": 5909
+    },
+    {
+      "testcaseId": 246,
+      "processingTime": 1552.312147,
+      "score": 15.500000000000002,
+      "visits": 299308
+    },
+    {
+      "testcaseId": 247,
+      "processingTime": 100.44702699999999,
+      "score": 27.8,
+      "visits": 19617
+    },
+    {
+      "testcaseId": 248,
+      "processingTime": 31.181205,
+      "score": 8.200000000000001,
+      "visits": 10889
+    },
+    {
+      "testcaseId": 249,
+      "processingTime": 162.388288,
+      "score": 6.200000000000003,
+      "visits": 47597
+    },
+    {
+      "testcaseId": 250,
+      "processingTime": 38.775101,
+      "score": -1.2,
+      "visits": 10874
+    },
+    {
+      "testcaseId": 251,
+      "processingTime": 5.754951999999999,
+      "score": 5.500000000000001,
+      "visits": 1691
+    },
+    {
+      "testcaseId": 252,
+      "processingTime": 1317.4519209999999,
+      "score": 18,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 253,
+      "processingTime": 15077.928626,
+      "score": -1.1999999999999993,
+      "visits": 3240666
+    },
+    {
+      "testcaseId": 254,
+      "processingTime": 4.208245,
+      "score": 12.200000000000001,
+      "visits": 653
+    },
+    {
+      "testcaseId": 255,
+      "processingTime": 440.218509,
+      "score": 14.4,
+      "visits": 59834
+    },
+    {
+      "testcaseId": 256,
+      "processingTime": 100.299149,
+      "score": 11.299999999999999,
+      "visits": 22251
+    },
+    {
+      "testcaseId": 257,
+      "processingTime": 0.5353330000000001,
+      "score": -12.000000000000002,
+      "visits": 98
+    },
+    {
+      "testcaseId": 258,
+      "processingTime": 1381.479622,
+      "score": 53.800000000000004,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 259,
+      "processingTime": 31580.820235,
+      "score": 25.1,
+      "visits": 6255043
+    },
+    {
+      "testcaseId": 260,
+      "processingTime": 3.874342,
+      "score": 43.1,
+      "visits": 1027
+    },
+    {
+      "testcaseId": 261,
+      "processingTime": 2.0597760000000003,
+      "score": -9.3,
+      "visits": 249
+    },
+    {
+      "testcaseId": 262,
+      "processingTime": 343.173824,
+      "score": 11.400000000000002,
+      "visits": 92634
+    },
+    {
+      "testcaseId": 263,
+      "processingTime": 217.449953,
+      "score": -5,
+      "visits": 74819
+    },
+    {
+      "testcaseId": 264,
+      "processingTime": 1288.755652,
+      "score": -3,
+      "visits": 267731
+    },
+    {
+      "testcaseId": 265,
+      "processingTime": 21.81222,
+      "score": -0.3999999999999999,
+      "visits": 5049
+    },
+    {
+      "testcaseId": 266,
+      "processingTime": 1051.529133,
+      "score": -5.099999999999998,
+      "visits": 270671
+    },
+    {
+      "testcaseId": 267,
+      "processingTime": 1498.3407550000002,
+      "score": 5.4,
+      "visits": 457797
+    },
+    {
+      "testcaseId": 268,
+      "processingTime": 706.3580010000001,
+      "score": 17.6,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 269,
+      "processingTime": 28287.314483,
+      "score": -6.300000000000002,
+      "visits": 5448520
+    },
+    {
+      "testcaseId": 270,
+      "processingTime": 3.010689,
+      "score": 18.4,
+      "visits": 764
+    },
+    {
+      "testcaseId": 271,
+      "processingTime": 611.3814480000001,
+      "score": -3,
+      "visits": 146442
+    },
+    {
+      "testcaseId": 272,
+      "processingTime": 286.415923,
+      "score": 31.800000000000004,
+      "visits": 69999
+    },
+    {
+      "testcaseId": 273,
+      "processingTime": 15.298311,
+      "score": 9.8,
+      "visits": 4839
+    },
+    {
+      "testcaseId": 274,
+      "processingTime": 37.032165,
+      "score": 4.850000000000001,
+      "visits": 9383
+    },
+    {
+      "testcaseId": 275,
+      "processingTime": 183.12169600000001,
+      "score": 18.900000000000002,
+      "visits": 47221
+    },
+    {
+      "testcaseId": 276,
+      "processingTime": 1532.837632,
+      "score": -9.6,
+      "visits": 283313
+    },
+    {
+      "testcaseId": 277,
+      "processingTime": 830.167628,
+      "score": 12.5,
+      "visits": 173888
+    },
+    {
+      "testcaseId": 278,
+      "processingTime": 4331.632094,
+      "score": -12.600000000000001,
+      "visits": 835467
+    },
+    {
+      "testcaseId": 279,
+      "processingTime": 4.490953,
+      "score": 0,
+      "visits": 1449
+    },
+    {
+      "testcaseId": 280,
+      "processingTime": 878.811515,
+      "score": 9,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 281,
+      "processingTime": 36.565847999999995,
+      "score": -28.2,
+      "visits": 7556
+    },
+    {
+      "testcaseId": 282,
+      "processingTime": 2108.11738,
+      "score": 6,
+      "visits": 706825
+    },
+    {
+      "testcaseId": 283,
+      "processingTime": 42.053452,
+      "score": 6,
+      "visits": 11609
+    },
+    {
+      "testcaseId": 284,
+      "processingTime": 6.864356,
+      "score": -6.6,
+      "visits": 1863
+    },
+    {
+      "testcaseId": 285,
+      "processingTime": 8.66956,
+      "score": -3,
+      "visits": 2645
+    },
+    {
+      "testcaseId": 286,
+      "processingTime": 14.552736,
+      "score": 15,
+      "visits": 3959
+    },
+    {
+      "testcaseId": 287,
+      "processingTime": 200.761864,
+      "score": 6.100000000000001,
+      "visits": 63749
+    },
+    {
+      "testcaseId": 288,
+      "processingTime": 11.051313,
+      "score": -2.3,
+      "visits": 2853
+    },
+    {
+      "testcaseId": 289,
+      "processingTime": 168.16179,
+      "score": -14.5,
+      "visits": 73899
+    },
+    {
+      "testcaseId": 290,
+      "processingTime": 841.225171,
+      "score": 59.50000000000001,
+      "visits": 228803
+    },
+    {
+      "testcaseId": 291,
+      "processingTime": 408.272234,
+      "score": -5.6,
+      "visits": 106975
+    },
+    {
+      "testcaseId": 292,
+      "processingTime": 164.361174,
+      "score": 9.8,
+      "visits": 35879
+    },
+    {
+      "testcaseId": 293,
+      "processingTime": 823.9340619999999,
+      "score": -1.7999999999999994,
+      "visits": 173882
+    },
+    {
+      "testcaseId": 294,
+      "processingTime": 116.479702,
+      "score": 16.7,
+      "visits": 24373
+    },
+    {
+      "testcaseId": 295,
+      "processingTime": 8987.117357000001,
+      "score": -4.3,
+      "visits": 2323216
+    },
+    {
+      "testcaseId": 296,
+      "processingTime": 30.113088,
+      "score": -0.6000000000000001,
+      "visits": 8904
+    },
+    {
+      "testcaseId": 297,
+      "processingTime": 4854.726216999999,
+      "score": -16.6,
+      "visits": 938456
+    },
+    {
+      "testcaseId": 298,
+      "processingTime": 6427.685802,
+      "score": -4.3,
+      "visits": 1331313
+    },
+    {
+      "testcaseId": 299,
+      "processingTime": 60.27689,
+      "score": 16.3,
+      "visits": 19304
+    },
+    {
+      "testcaseId": 300,
+      "processingTime": 4598.159033,
+      "score": 23,
+      "visits": 900370
+    },
+    {
+      "testcaseId": 301,
+      "processingTime": 456.78862300000003,
+      "score": -37.2,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 302,
+      "processingTime": 89.925317,
+      "score": -42.2,
+      "visits": 20025
+    },
+    {
+      "testcaseId": 303,
+      "processingTime": 29.550694999999997,
+      "score": 45.800000000000004,
+      "visits": 9206
+    },
+    {
+      "testcaseId": 304,
+      "processingTime": 1827.3073980000001,
+      "score": 6,
+      "visits": 434980
+    },
+    {
+      "testcaseId": 305,
+      "processingTime": 416.957734,
+      "score": -4.3,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 306,
+      "processingTime": 657.332679,
+      "score": -4.15,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 307,
+      "processingTime": 83.091607,
+      "score": 14.600000000000001,
+      "visits": 23252
+    },
+    {
+      "testcaseId": 308,
+      "processingTime": 153.35115599999997,
+      "score": -9.5,
+      "visits": 44279
+    },
+    {
+      "testcaseId": 309,
+      "processingTime": 83.722059,
+      "score": -27.700000000000003,
+      "visits": 23481
+    },
+    {
+      "testcaseId": 310,
+      "processingTime": 744.7733939999999,
+      "score": -42.900000000000006,
+      "visits": 202763
+    },
+    {
+      "testcaseId": 311,
+      "processingTime": 29.965194,
+      "score": 20.1,
+      "visits": 6969
+    },
+    {
+      "testcaseId": 312,
+      "processingTime": 116.128598,
+      "score": -13.9,
+      "visits": 30074
+    },
+    {
+      "testcaseId": 313,
+      "processingTime": 1187.2409109999999,
+      "score": 39.2,
+      "visits": 242792
+    },
+    {
+      "testcaseId": 314,
+      "processingTime": 3205.836078,
+      "score": -5,
+      "visits": 754791
+    },
+    {
+      "testcaseId": 315,
+      "processingTime": 26412.043703,
+      "score": 11.200000000000001,
+      "visits": 5276090
+    },
+    {
+      "testcaseId": 316,
+      "processingTime": 4583.556977,
+      "score": 54.4,
+      "visits": 983192
+    },
+    {
+      "testcaseId": 317,
+      "processingTime": 147.722792,
+      "score": -3.5,
+      "visits": 42133
+    },
+    {
+      "testcaseId": 318,
+      "processingTime": 3103.555754,
+      "score": 38.7,
+      "visits": 685814
+    },
+    {
+      "testcaseId": 319,
+      "processingTime": 7.076528000000001,
+      "score": 12.7,
+      "visits": 1129
+    },
+    {
+      "testcaseId": 320,
+      "processingTime": 0.847388,
+      "score": -17.1,
+      "visits": 239
+    },
+    {
+      "testcaseId": 321,
+      "processingTime": 197.86247600000002,
+      "score": 16,
+      "visits": 38017
+    },
+    {
+      "testcaseId": 322,
+      "processingTime": 17916.191068,
+      "score": -4.3,
+      "visits": 3852624
+    },
+    {
+      "testcaseId": 323,
+      "processingTime": 57.951073,
+      "score": 6.000000000000002,
+      "visits": 20193
+    },
+    {
+      "testcaseId": 324,
+      "processingTime": 709.6404389999999,
+      "score": 0,
+      "visits": 173888
+    },
+    {
+      "testcaseId": 325,
+      "processingTime": 69.22849000000001,
+      "score": 7.2,
+      "visits": 20096
+    },
+    {
+      "testcaseId": 326,
+      "processingTime": 109.440404,
+      "score": 20.8,
+      "visits": 32229
+    },
+    {
+      "testcaseId": 327,
+      "processingTime": 101.62476,
+      "score": 58.9,
+      "visits": 32595
+    },
+    {
+      "testcaseId": 328,
+      "processingTime": 870.412383,
+      "score": -7.3,
+      "visits": 189295
+    },
+    {
+      "testcaseId": 329,
+      "processingTime": 21.22141,
+      "score": 2.4,
+      "visits": 3753
+    },
+    {
+      "testcaseId": 330,
+      "processingTime": 788.39414,
+      "score": 24.35,
+      "visits": 160979
+    },
+    {
+      "testcaseId": 331,
+      "processingTime": 122.691963,
+      "score": 18.8,
+      "visits": 36189
+    },
+    {
+      "testcaseId": 332,
+      "processingTime": 22.461854,
+      "score": 5.800000000000001,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 333,
+      "processingTime": 13054.49104,
+      "score": -13.5,
+      "visits": 2774321
+    },
+    {
+      "testcaseId": 334,
+      "processingTime": 635.852929,
+      "score": 0.3,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 335,
+      "processingTime": 253.863899,
+      "score": -4.599999999999998,
+      "visits": 77711
+    },
+    {
+      "testcaseId": 336,
+      "processingTime": 15.568678,
+      "score": -6.8,
+      "visits": 4697
+    },
+    {
+      "testcaseId": 337,
+      "processingTime": 3194.53522,
+      "score": 8.7,
+      "visits": 693057
+    },
+    {
+      "testcaseId": 338,
+      "processingTime": 144.516874,
+      "score": 7.45,
+      "visits": 44891
+    },
+    {
+      "testcaseId": 339,
+      "processingTime": 537.672525,
+      "score": 5.4,
+      "visits": 117641
+    },
+    {
+      "testcaseId": 340,
+      "processingTime": 1883.6109569999999,
+      "score": 1.2,
+      "visits": 524244
+    },
+    {
+      "testcaseId": 341,
+      "processingTime": 368.873788,
+      "score": -7,
+      "visits": 83009
+    },
+    {
+      "testcaseId": 342,
+      "processingTime": 682.947918,
+      "score": 3.6999999999999993,
+      "visits": 160979
+    },
+    {
+      "testcaseId": 343,
+      "processingTime": 50.775523,
+      "score": -13.100000000000001,
+      "visits": 13397
+    },
+    {
+      "testcaseId": 344,
+      "processingTime": 1105.68686,
+      "score": 19,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 345,
+      "processingTime": 718.40594,
+      "score": 28,
+      "visits": 123242
+    },
+    {
+      "testcaseId": 346,
+      "processingTime": 120.599443,
+      "score": 2.4,
+      "visits": 36109
+    },
+    {
+      "testcaseId": 347,
+      "processingTime": 135.83407,
+      "score": -5,
+      "visits": 37887
+    },
+    {
+      "testcaseId": 348,
+      "processingTime": 261.752611,
+      "score": -30.200000000000003,
+      "visits": 67027
+    },
+    {
+      "testcaseId": 349,
+      "processingTime": 274.391743,
+      "score": 17.700000000000003,
+      "visits": 61293
+    },
+    {
+      "testcaseId": 350,
+      "processingTime": 59.004926,
+      "score": -7.5,
+      "visits": 8659
+    },
+    {
+      "testcaseId": 351,
+      "processingTime": 1126.339354,
+      "score": 4.7,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 352,
+      "processingTime": 128.20363500000002,
+      "score": -21.1,
+      "visits": 36189
+    },
+    {
+      "testcaseId": 353,
+      "processingTime": 558.5552150000001,
+      "score": 14.9,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 354,
+      "processingTime": 308.220814,
+      "score": -25.6,
+      "visits": 73491
+    },
+    {
+      "testcaseId": 355,
+      "processingTime": 1468.7515170000001,
+      "score": 55,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 356,
+      "processingTime": 468.291537,
+      "score": -11.9,
+      "visits": 100042
+    },
+    {
+      "testcaseId": 357,
+      "processingTime": 3.80463,
+      "score": 14.8,
+      "visits": 713
+    },
+    {
+      "testcaseId": 358,
+      "processingTime": 24.303022000000002,
+      "score": 50.2,
+      "visits": 7017
+    },
+    {
+      "testcaseId": 359,
+      "processingTime": 543.258661,
+      "score": -3.799999999999999,
+      "visits": 173627
+    },
+    {
+      "testcaseId": 360,
+      "processingTime": 171.983193,
+      "score": -34.699999999999996,
+      "visits": 48149
+    },
+    {
+      "testcaseId": 361,
+      "processingTime": 82.251907,
+      "score": 19,
+      "visits": 23173
+    },
+    {
+      "testcaseId": 362,
+      "processingTime": 136.515108,
+      "score": -0.8999999999999999,
+      "visits": 43075
+    },
+    {
+      "testcaseId": 363,
+      "processingTime": 120.830634,
+      "score": 8.4,
+      "visits": 36109
+    },
+    {
+      "testcaseId": 364,
+      "processingTime": 1507.907068,
+      "score": 14.350000000000001,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 365,
+      "processingTime": 808.668272,
+      "score": -7.9,
+      "visits": 157841
+    },
+    {
+      "testcaseId": 366,
+      "processingTime": 5277.635515,
+      "score": -45.300000000000004,
+      "visits": 970634
+    },
+    {
+      "testcaseId": 367,
+      "processingTime": 7157.696114,
+      "score": 46.80000000000001,
+      "visits": 1641578
+    },
+    {
+      "testcaseId": 368,
+      "processingTime": 673.4635519999999,
+      "score": -1.6,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 369,
+      "processingTime": 2.141458,
+      "score": 32.1,
+      "visits": 249
+    },
+    {
+      "testcaseId": 370,
+      "processingTime": 362.820849,
+      "score": -43.00000000000001,
+      "visits": 90947
+    },
+    {
+      "testcaseId": 371,
+      "processingTime": 6.271032,
+      "score": 38.6,
+      "visits": 1823
+    },
+    {
+      "testcaseId": 372,
+      "processingTime": 660.281488,
+      "score": 3,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 373,
+      "processingTime": 4209.786346,
+      "score": 37.300000000000004,
+      "visits": 838421
+    },
+    {
+      "testcaseId": 374,
+      "processingTime": 178.691435,
+      "score": 14.1,
+      "visits": 35685
+    },
+    {
+      "testcaseId": 375,
+      "processingTime": 76.861438,
+      "score": -1.2,
+      "visits": 24725
+    },
+    {
+      "testcaseId": 376,
+      "processingTime": 3.9123580000000002,
+      "score": 11.500000000000002,
+      "visits": 1133
+    },
+    {
+      "testcaseId": 377,
+      "processingTime": 1365.061814,
+      "score": 9.4,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 378,
+      "processingTime": 303.59641799999997,
+      "score": -34.6,
+      "visits": 74685
+    },
+    {
+      "testcaseId": 379,
+      "processingTime": 93.140207,
+      "score": -1.5,
+      "visits": 25161
+    },
+    {
+      "testcaseId": 380,
+      "processingTime": 126.680883,
+      "score": -4.8,
+      "visits": 24469
+    },
+    {
+      "testcaseId": 381,
+      "processingTime": 3.9885420000000003,
+      "score": 36.7,
+      "visits": 1595
+    },
+    {
+      "testcaseId": 382,
+      "processingTime": 2262.957218,
+      "score": -4,
+      "visits": 575747
+    },
+    {
+      "testcaseId": 383,
+      "processingTime": 2327.789796,
+      "score": -4.3,
+      "visits": 439600
+    },
+    {
+      "testcaseId": 384,
+      "processingTime": 283.151864,
+      "score": -5.5,
+      "visits": 98379
+    },
+    {
+      "testcaseId": 385,
+      "processingTime": 987.192048,
+      "score": 7.9,
+      "visits": 270671
+    },
+    {
+      "testcaseId": 386,
+      "processingTime": 986.329402,
+      "score": 10.600000000000001,
+      "visits": 266834
+    },
+    {
+      "testcaseId": 387,
+      "processingTime": 34.281938999999994,
+      "score": -3.9,
+      "visits": 6848
+    },
+    {
+      "testcaseId": 388,
+      "processingTime": 157.49417,
+      "score": 35,
+      "visits": 42769
+    },
+    {
+      "testcaseId": 389,
+      "processingTime": 9090.594880999999,
+      "score": -5,
+      "visits": 2391383
+    },
+    {
+      "testcaseId": 390,
+      "processingTime": 1421.6764,
+      "score": -5.9,
+      "visits": 396889
+    },
+    {
+      "testcaseId": 391,
+      "processingTime": 17.32055,
+      "score": -25.200000000000003,
+      "visits": 3653
+    },
+    {
+      "testcaseId": 392,
+      "processingTime": 280.662508,
+      "score": -7.6,
+      "visits": 72670
+    },
+    {
+      "testcaseId": 393,
+      "processingTime": 158.50345399999998,
+      "score": -5,
+      "visits": 47924
+    },
+    {
+      "testcaseId": 394,
+      "processingTime": 570.2023240000001,
+      "score": -4,
+      "visits": 146442
+    },
+    {
+      "testcaseId": 395,
+      "processingTime": 1009.829324,
+      "score": 8.1,
+      "visits": 277136
+    },
+    {
+      "testcaseId": 396,
+      "processingTime": 185.776522,
+      "score": -12.6,
+      "visits": 53366
+    },
+    {
+      "testcaseId": 397,
+      "processingTime": 27.678404999999998,
+      "score": -25,
+      "visits": 6524
+    },
+    {
+      "testcaseId": 398,
+      "processingTime": 700.6577619999999,
+      "score": -27.400000000000002,
+      "visits": 150911
+    },
+    {
+      "testcaseId": 399,
+      "processingTime": 6627.771527,
+      "score": 15.600000000000003,
+      "visits": 1224018
+    },
+    {
+      "testcaseId": 400,
+      "processingTime": 1545.9096000000002,
+      "score": -3.3,
+      "visits": 283313
+    },
+    {
+      "testcaseId": 401,
+      "processingTime": 24603.154964,
+      "score": -8,
+      "visits": 5448520
+    },
+    {
+      "testcaseId": 402,
+      "processingTime": 7.735131999999999,
+      "score": -1.5,
+      "visits": 1484
+    },
+    {
+      "testcaseId": 403,
+      "processingTime": 5.614953,
+      "score": -6.15,
+      "visits": 1925
+    },
+    {
+      "testcaseId": 404,
+      "processingTime": 302.05116599999997,
+      "score": 8.600000000000001,
+      "visits": 75800
+    },
+    {
+      "testcaseId": 405,
+      "processingTime": 6374.331286000001,
+      "score": -1,
+      "visits": 1349706
+    },
+    {
+      "testcaseId": 406,
+      "processingTime": 76.326209,
+      "score": 8.400000000000002,
+      "visits": 23561
+    },
+    {
+      "testcaseId": 407,
+      "processingTime": 1148.289021,
+      "score": -53.4,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 408,
+      "processingTime": 102.28574,
+      "score": 32.5,
+      "visits": 26779
+    },
+    {
+      "testcaseId": 409,
+      "processingTime": 659.985132,
+      "score": 0,
+      "visits": 152835
+    },
+    {
+      "testcaseId": 410,
+      "processingTime": 16084.026875,
+      "score": -22.3,
+      "visits": 3429492
+    },
+    {
+      "testcaseId": 411,
+      "processingTime": 4182.822152,
+      "score": -1.45,
+      "visits": 817092
+    },
+    {
+      "testcaseId": 412,
+      "processingTime": 133.649713,
+      "score": 12.8,
+      "visits": 43095
+    },
+    {
+      "testcaseId": 413,
+      "processingTime": 1.3485960000000001,
+      "score": -14.200000000000001,
+      "visits": 359
+    },
+    {
+      "testcaseId": 414,
+      "processingTime": 21.0994,
+      "score": 10.8,
+      "visits": 5420
+    },
+    {
+      "testcaseId": 415,
+      "processingTime": 5115.927473,
+      "score": 0,
+      "visits": 1376725
+    },
+    {
+      "testcaseId": 416,
+      "processingTime": 3195.740421,
+      "score": 9.2,
+      "visits": 723125
+    },
+    {
+      "testcaseId": 417,
+      "processingTime": 41.189763,
+      "score": -0.6,
+      "visits": 12631
+    },
+    {
+      "testcaseId": 418,
+      "processingTime": 1037.9744179999998,
+      "score": 21,
+      "visits": 173246
+    },
+    {
+      "testcaseId": 419,
+      "processingTime": 101.04594,
+      "score": 45.4,
+      "visits": 29959
+    },
+    {
+      "testcaseId": 420,
+      "processingTime": 49.804463,
+      "score": 8.1,
+      "visits": 12871
+    },
+    {
+      "testcaseId": 421,
+      "processingTime": 77.456117,
+      "score": 20.200000000000003,
+      "visits": 26924
+    },
+    {
+      "testcaseId": 422,
+      "processingTime": 6000.803799,
+      "score": 0,
+      "visits": 1559475
+    },
+    {
+      "testcaseId": 423,
+      "processingTime": 11.24814,
+      "score": -6.6,
+      "visits": 1863
+    },
+    {
+      "testcaseId": 424,
+      "processingTime": 598.3710639999999,
+      "score": -10.200000000000001,
+      "visits": 176885
+    },
+    {
+      "testcaseId": 425,
+      "processingTime": 184.00427299999998,
+      "score": -7.6,
+      "visits": 53366
+    },
+    {
+      "testcaseId": 426,
+      "processingTime": 51.856987000000004,
+      "score": -3,
+      "visits": 9030
+    },
+    {
+      "testcaseId": 427,
+      "processingTime": 1111.7069040000001,
+      "score": 14.000000000000002,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 428,
+      "processingTime": 865.199037,
+      "score": 26.4,
+      "visits": 236515
+    },
+    {
+      "testcaseId": 429,
+      "processingTime": 216.35679499999998,
+      "score": 4.600000000000001,
+      "visits": 61293
+    },
+    {
+      "testcaseId": 430,
+      "processingTime": 14.211111,
+      "score": -8.4,
+      "visits": 3629
+    },
+    {
+      "testcaseId": 431,
+      "processingTime": 4.753165,
+      "score": 26.700000000000003,
+      "visits": 1187
+    },
+    {
+      "testcaseId": 432,
+      "processingTime": 459.944191,
+      "score": 13,
+      "visits": 100042
+    },
+    {
+      "testcaseId": 433,
+      "processingTime": 10.416148999999999,
+      "score": -4.2,
+      "visits": 2349
+    },
+    {
+      "testcaseId": 434,
+      "processingTime": 15383.729294,
+      "score": 19,
+      "visits": 3486025
+    },
+    {
+      "testcaseId": 435,
+      "processingTime": 1429.027364,
+      "score": 20.1,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 436,
+      "processingTime": 117.80094700000001,
+      "score": 59.4,
+      "visits": 36109
+    },
+    {
+      "testcaseId": 437,
+      "processingTime": 827.1573880000001,
+      "score": -15.9,
+      "visits": 231999
+    },
+    {
+      "testcaseId": 438,
+      "processingTime": 166.454795,
+      "score": 13.600000000000001,
+      "visits": 44954
+    },
+    {
+      "testcaseId": 439,
+      "processingTime": 993.330345,
+      "score": 10.700000000000001,
+      "visits": 263705
+    },
+    {
+      "testcaseId": 440,
+      "processingTime": 25.003108,
+      "score": -13.5,
+      "visits": 4906
+    },
+    {
+      "testcaseId": 441,
+      "processingTime": 19.854245,
+      "score": 3.4,
+      "visits": 3282
+    },
+    {
+      "testcaseId": 442,
+      "processingTime": 279.04346200000003,
+      "score": -0.8999999999999999,
+      "visits": 83837
+    },
+    {
+      "testcaseId": 443,
+      "processingTime": 16044.261757,
+      "score": -0.3,
+      "visits": 3462252
+    },
+    {
+      "testcaseId": 444,
+      "processingTime": 554.2266729999999,
+      "score": -14.399999999999999,
+      "visits": 106975
+    },
+    {
+      "testcaseId": 445,
+      "processingTime": 603.681902,
+      "score": -34.4,
+      "visits": 131852
+    },
+    {
+      "testcaseId": 446,
+      "processingTime": 94.249297,
+      "score": -9.600000000000001,
+      "visits": 19617
+    },
+    {
+      "testcaseId": 447,
+      "processingTime": 6.664445,
+      "score": -5.4,
+      "visits": 2465
+    },
+    {
+      "testcaseId": 448,
+      "processingTime": 69.614458,
+      "score": 17.700000000000003,
+      "visits": 19574
+    },
+    {
+      "testcaseId": 449,
+      "processingTime": 13.812788,
+      "score": -0.4999999999999991,
+      "visits": 4715
+    },
+    {
+      "testcaseId": 450,
+      "processingTime": 1600.1481840000001,
+      "score": 3.3999999999999995,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 451,
+      "processingTime": 184.88814,
+      "score": -23.1,
+      "visits": 49739
+    },
+    {
+      "testcaseId": 452,
+      "processingTime": 447.036557,
+      "score": 14.2,
+      "visits": 107362
+    },
+    {
+      "testcaseId": 453,
+      "processingTime": 32.495148,
+      "score": -13,
+      "visits": 10455
+    },
+    {
+      "testcaseId": 454,
+      "processingTime": 12058.709303,
+      "score": -9,
+      "visits": 3017799
+    },
+    {
+      "testcaseId": 455,
+      "processingTime": 5.020268,
+      "score": -12,
+      "visits": 998
+    },
+    {
+      "testcaseId": 456,
+      "processingTime": 2669.720488,
+      "score": 1.8000000000000016,
+      "visits": 599490
+    },
+    {
+      "testcaseId": 457,
+      "processingTime": 49.531496000000004,
+      "score": -3.1,
+      "visits": 17900
+    },
+    {
+      "testcaseId": 458,
+      "processingTime": 3496.086171,
+      "score": -5.3,
+      "visits": 1027507
+    },
+    {
+      "testcaseId": 459,
+      "processingTime": 117.54769900000001,
+      "score": 1,
+      "visits": 38379
+    },
+    {
+      "testcaseId": 460,
+      "processingTime": 60.277036,
+      "score": -9.9,
+      "visits": 12871
+    },
+    {
+      "testcaseId": 461,
+      "processingTime": 138.459897,
+      "score": 14.3,
+      "visits": 38409
+    },
+    {
+      "testcaseId": 462,
+      "processingTime": 5463.884833,
+      "score": -1.9,
+      "visits": 1593347
+    },
+    {
+      "testcaseId": 463,
+      "processingTime": 18.226411000000002,
+      "score": 12.700000000000001,
+      "visits": 3785
+    },
+    {
+      "testcaseId": 464,
+      "processingTime": 665.8544939999999,
+      "score": -4.3,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 465,
+      "processingTime": 175.559186,
+      "score": 52.050000000000004,
+      "visits": 46399
+    },
+    {
+      "testcaseId": 466,
+      "processingTime": 455.633257,
+      "score": -19.4,
+      "visits": 127805
+    },
+    {
+      "testcaseId": 467,
+      "processingTime": 455.407071,
+      "score": 3.4999999999999982,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 468,
+      "processingTime": 10.02839,
+      "score": -36.6,
+      "visits": 3239
+    },
+    {
+      "testcaseId": 469,
+      "processingTime": 97.392149,
+      "score": -9,
+      "visits": 19257
+    },
+    {
+      "testcaseId": 470,
+      "processingTime": 3.121403,
+      "score": 38.5,
+      "visits": 935
+    },
+    {
+      "testcaseId": 471,
+      "processingTime": 19634.738093,
+      "score": -2.3,
+      "visits": 4297018
+    },
+    {
+      "testcaseId": 472,
+      "processingTime": 151.807797,
+      "score": -31.2,
+      "visits": 45739
+    },
+    {
+      "testcaseId": 473,
+      "processingTime": 15779.804936999999,
+      "score": -12.3,
+      "visits": 3613253
+    },
+    {
+      "testcaseId": 474,
+      "processingTime": 2511.654317,
+      "score": 9.2,
+      "visits": 569661
+    },
+    {
+      "testcaseId": 475,
+      "processingTime": 14481.080507,
+      "score": 0.3,
+      "visits": 3374154
+    },
+    {
+      "testcaseId": 476,
+      "processingTime": 505.512922,
+      "score": -12,
+      "visits": 131212
+    },
+    {
+      "testcaseId": 477,
+      "processingTime": 90.169242,
+      "score": 6.7,
+      "visits": 21485
+    },
+    {
+      "testcaseId": 478,
+      "processingTime": 43.176604,
+      "score": -17.1,
+      "visits": 9925
+    },
+    {
+      "testcaseId": 479,
+      "processingTime": 319.311913,
+      "score": 8.200000000000001,
+      "visits": 80930
+    },
+    {
+      "testcaseId": 480,
+      "processingTime": 1.810348,
+      "score": -28.200000000000003,
+      "visits": 494
+    },
+    {
+      "testcaseId": 481,
+      "processingTime": 88.52476200000001,
+      "score": 22.400000000000002,
+      "visits": 26095
+    },
+    {
+      "testcaseId": 482,
+      "processingTime": 764.9370260000001,
+      "score": -7.600000000000001,
+      "visits": 160979
+    },
+    {
+      "testcaseId": 483,
+      "processingTime": 19578.417551000002,
+      "score": 68.8,
+      "visits": 4018480
+    },
+    {
+      "testcaseId": 484,
+      "processingTime": 765.58324,
+      "score": 2.4,
+      "visits": 182258
+    },
+    {
+      "testcaseId": 485,
+      "processingTime": 68.993043,
+      "score": 0,
+      "visits": 11843
+    },
+    {
+      "testcaseId": 486,
+      "processingTime": 69.459037,
+      "score": 4.4,
+      "visits": 20065
+    },
+    {
+      "testcaseId": 487,
+      "processingTime": 1113.57198,
+      "score": 7.1,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 488,
+      "processingTime": 8.117899,
+      "score": 23.6,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 489,
+      "processingTime": 107.599666,
+      "score": -0.6,
+      "visits": 31008
+    },
+    {
+      "testcaseId": 490,
+      "processingTime": 329.840833,
+      "score": -4.6,
+      "visits": 86839
+    },
+    {
+      "testcaseId": 491,
+      "processingTime": 84.24303900000001,
+      "score": -2,
+      "visits": 12294
+    },
+    {
+      "testcaseId": 492,
+      "processingTime": 813.222055,
+      "score": -4.800000000000001,
+      "visits": 173882
+    },
+    {
+      "testcaseId": 493,
+      "processingTime": 157.694301,
+      "score": -18.6,
+      "visits": 46364
+    },
+    {
+      "testcaseId": 494,
+      "processingTime": 8.307362000000001,
+      "score": 10,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 495,
+      "processingTime": 18.624632,
+      "score": -6.9,
+      "visits": 2921
+    },
+    {
+      "testcaseId": 496,
+      "processingTime": 88.104894,
+      "score": 45.50000000000001,
+      "visits": 15933
+    },
+    {
+      "testcaseId": 497,
+      "processingTime": 41.924569000000005,
+      "score": 30.400000000000002,
+      "visits": 6695
+    },
+    {
+      "testcaseId": 498,
+      "processingTime": 2.669814,
+      "score": -17.200000000000003,
+      "visits": 701
+    },
+    {
+      "testcaseId": 499,
+      "processingTime": 790.931418,
+      "score": -9,
+      "visits": 151793
+    },
+    {
+      "testcaseId": 500,
+      "processingTime": 112.404371,
+      "score": 19.3,
+      "visits": 33763
+    },
+    {
+      "testcaseId": 501,
+      "processingTime": 35.49241,
+      "score": -20.6,
+      "visits": 11474
+    },
+    {
+      "testcaseId": 502,
+      "processingTime": 115.261066,
+      "score": -5.8,
+      "visits": 43724
+    },
+    {
+      "testcaseId": 503,
+      "processingTime": 1333.586229,
+      "score": -4.15,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 504,
+      "processingTime": 416.146718,
+      "score": -26.1,
+      "visits": 98511
+    },
+    {
+      "testcaseId": 505,
+      "processingTime": 201.956751,
+      "score": -28,
+      "visits": 60917
+    },
+    {
+      "testcaseId": 506,
+      "processingTime": 21836.116754,
+      "score": 17,
+      "visits": 4765109
+    },
+    {
+      "testcaseId": 507,
+      "processingTime": 22843.814641,
+      "score": 21.3,
+      "visits": 4376173
+    },
+    {
+      "testcaseId": 508,
+      "processingTime": 1419.358693,
+      "score": 29.4,
+      "visits": 400368
+    },
+    {
+      "testcaseId": 509,
+      "processingTime": 862.297369,
+      "score": -6,
+      "visits": 253527
+    },
+    {
+      "testcaseId": 510,
+      "processingTime": 11697.976494,
+      "score": 14.4,
+      "visits": 2784395
+    },
+    {
+      "testcaseId": 511,
+      "processingTime": 2550.709633,
+      "score": 12.700000000000001,
+      "visits": 541319
+    },
+    {
+      "testcaseId": 512,
+      "processingTime": 18.794140000000002,
+      "score": 5.4,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 513,
+      "processingTime": 424.123213,
+      "score": -2.6,
+      "visits": 109792
+    },
+    {
+      "testcaseId": 514,
+      "processingTime": 485.25714,
+      "score": -4.3,
+      "visits": 117641
+    },
+    {
+      "testcaseId": 515,
+      "processingTime": 2068.652319,
+      "score": -3,
+      "visits": 506811
+    },
+    {
+      "testcaseId": 516,
+      "processingTime": 4162.615496,
+      "score": -4,
+      "visits": 900370
+    },
+    {
+      "testcaseId": 517,
+      "processingTime": 384.04293900000005,
+      "score": -1.7999999999999998,
+      "visits": 93500
+    },
+    {
+      "testcaseId": 518,
+      "processingTime": 886.5777959999999,
+      "score": -5.3,
+      "visits": 255199
+    },
+    {
+      "testcaseId": 519,
+      "processingTime": 6.621905,
+      "score": -6.699999999999999,
+      "visits": 1101
+    },
+    {
+      "testcaseId": 520,
+      "processingTime": 397.633255,
+      "score": -18.800000000000004,
+      "visits": 96345
+    },
+    {
+      "testcaseId": 521,
+      "processingTime": 173.041354,
+      "score": 24.450000000000003,
+      "visits": 47951
+    },
+    {
+      "testcaseId": 522,
+      "processingTime": 798.146062,
+      "score": -11,
+      "visits": 234927
+    },
+    {
+      "testcaseId": 523,
+      "processingTime": 202.949691,
+      "score": 15.000000000000002,
+      "visits": 55973
+    },
+    {
+      "testcaseId": 524,
+      "processingTime": 2825.301656,
+      "score": -15,
+      "visits": 716104
+    },
+    {
+      "testcaseId": 525,
+      "processingTime": 392.14606200000003,
+      "score": -35.50000000000001,
+      "visits": 98934
+    },
+    {
+      "testcaseId": 526,
+      "processingTime": 1318.792371,
+      "score": 17.5,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 527,
+      "processingTime": 154.68992,
+      "score": -6.3,
+      "visits": 27775
+    },
+    {
+      "testcaseId": 528,
+      "processingTime": 157.85965800000002,
+      "score": 8.7,
+      "visits": 46459
+    },
+    {
+      "testcaseId": 529,
+      "processingTime": 102.082781,
+      "score": 9,
+      "visits": 19486
+    },
+    {
+      "testcaseId": 530,
+      "processingTime": 4.717612000000001,
+      "score": 9.200000000000001,
+      "visits": 1619
+    },
+    {
+      "testcaseId": 531,
+      "processingTime": 4334.809520000001,
+      "score": -3.8000000000000007,
+      "visits": 922817
+    },
+    {
+      "testcaseId": 532,
+      "processingTime": 77.98671399999999,
+      "score": -28.8,
+      "visits": 12594
+    },
+    {
+      "testcaseId": 533,
+      "processingTime": 252.510986,
+      "score": -59.400000000000006,
+      "visits": 82694
+    },
+    {
+      "testcaseId": 534,
+      "processingTime": 4.487379,
+      "score": -16.500000000000004,
+      "visits": 134
+    },
+    {
+      "testcaseId": 535,
+      "processingTime": 595.070307,
+      "score": 2.4000000000000004,
+      "visits": 131852
+    },
+    {
+      "testcaseId": 536,
+      "processingTime": 3.656302,
+      "score": 26.200000000000003,
+      "visits": 935
+    },
+    {
+      "testcaseId": 537,
+      "processingTime": 1110.763134,
+      "score": 23.8,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 538,
+      "processingTime": 287.19462400000003,
+      "score": 8.4,
+      "visits": 92465
+    },
+    {
+      "testcaseId": 539,
+      "processingTime": 4935.486908,
+      "score": -13.4,
+      "visits": 1440405
+    },
+    {
+      "testcaseId": 540,
+      "processingTime": 4.784181,
+      "score": 35.400000000000006,
+      "visits": 1484
+    },
+    {
+      "testcaseId": 541,
+      "processingTime": 980.771165,
+      "score": -3,
+      "visits": 290072
+    },
+    {
+      "testcaseId": 542,
+      "processingTime": 3810.162237,
+      "score": 19.2,
+      "visits": 852757
+    },
+    {
+      "testcaseId": 543,
+      "processingTime": 36.527699,
+      "score": -9.9,
+      "visits": 11059
+    },
+    {
+      "testcaseId": 544,
+      "processingTime": 386.45479900000004,
+      "score": -6,
+      "visits": 103167
+    },
+    {
+      "testcaseId": 545,
+      "processingTime": 3844.105136,
+      "score": -16.6,
+      "visits": 809466
+    },
+    {
+      "testcaseId": 546,
+      "processingTime": 20.954836,
+      "score": -0.2999999999999985,
+      "visits": 3415
+    },
+    {
+      "testcaseId": 547,
+      "processingTime": 26.270915,
+      "score": -0.09999999999999787,
+      "visits": 9764
+    },
+    {
+      "testcaseId": 548,
+      "processingTime": 815.203706,
+      "score": -25.7,
+      "visits": 161217
+    },
+    {
+      "testcaseId": 549,
+      "processingTime": 83.425636,
+      "score": 0.1999999999999993,
+      "visits": 24261
+    },
+    {
+      "testcaseId": 550,
+      "processingTime": 828.085414,
+      "score": 68.69999999999999,
+      "visits": 234349
+    },
+    {
+      "testcaseId": 551,
+      "processingTime": 17.822622,
+      "score": 6.500000000000001,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 552,
+      "processingTime": 119.12123,
+      "score": -8.1,
+      "visits": 36109
+    },
+    {
+      "testcaseId": 553,
+      "processingTime": 611.566815,
+      "score": 0,
+      "visits": 151990
+    },
+    {
+      "testcaseId": 554,
+      "processingTime": 98.01338,
+      "score": -11.2,
+      "visits": 37886
+    },
+    {
+      "testcaseId": 555,
+      "processingTime": 4817.605315,
+      "score": -6,
+      "visits": 938456
+    },
+    {
+      "testcaseId": 556,
+      "processingTime": 2230.031086,
+      "score": -4.3,
+      "visits": 562026
+    },
+    {
+      "testcaseId": 557,
+      "processingTime": 1123.4887019999999,
+      "score": 32.900000000000006,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 558,
+      "processingTime": 22.977997,
+      "score": -8.1,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 559,
+      "processingTime": 19.078037,
+      "score": -16,
+      "visits": 4145
+    },
+    {
+      "testcaseId": 560,
+      "processingTime": 6.854127,
+      "score": 5.600000000000001,
+      "visits": 1150
+    },
+    {
+      "testcaseId": 561,
+      "processingTime": 1152.1204659999999,
+      "score": 14.6,
+      "visits": 275015
+    },
+    {
+      "testcaseId": 562,
+      "processingTime": 10358.389408000001,
+      "score": 0.3,
+      "visits": 2650885
+    },
+    {
+      "testcaseId": 563,
+      "processingTime": 120.453333,
+      "score": 20,
+      "visits": 33812
+    },
+    {
+      "testcaseId": 564,
+      "processingTime": 3.688843,
+      "score": 6.7,
+      "visits": 713
+    },
+    {
+      "testcaseId": 565,
+      "processingTime": 72.089113,
+      "score": 8.85,
+      "visits": 17671
+    },
+    {
+      "testcaseId": 566,
+      "processingTime": 38.252648,
+      "score": 15.100000000000001,
+      "visits": 12715
+    },
+    {
+      "testcaseId": 567,
+      "processingTime": 19.239613,
+      "score": -0.29999999999999716,
+      "visits": 5264
+    },
+    {
+      "testcaseId": 568,
+      "processingTime": 83.05630699999999,
+      "score": 16.8,
+      "visits": 24679
+    },
+    {
+      "testcaseId": 569,
+      "processingTime": 577.575865,
+      "score": -0.3,
+      "visits": 180785
+    },
+    {
+      "testcaseId": 570,
+      "processingTime": 168.207312,
+      "score": 60.6,
+      "visits": 46459
+    },
+    {
+      "testcaseId": 571,
+      "processingTime": 1157.948752,
+      "score": -8,
+      "visits": 217799
+    },
+    {
+      "testcaseId": 572,
+      "processingTime": 1750.665153,
+      "score": -3.0999999999999988,
+      "visits": 283313
+    },
+    {
+      "testcaseId": 573,
+      "processingTime": 1329.792318,
+      "score": -12.9,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 574,
+      "processingTime": 156.642011,
+      "score": 22.400000000000002,
+      "visits": 43696
+    },
+    {
+      "testcaseId": 575,
+      "processingTime": 659.138377,
+      "score": 15.5,
+      "visits": 139199
+    },
+    {
+      "testcaseId": 576,
+      "processingTime": 49.473981,
+      "score": 35.2,
+      "visits": 15407
+    },
+    {
+      "testcaseId": 577,
+      "processingTime": 974.459667,
+      "score": 1.8,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 578,
+      "processingTime": 715.089701,
+      "score": -34.4,
+      "visits": 150650
+    },
+    {
+      "testcaseId": 579,
+      "processingTime": 13070.539584,
+      "score": -22.8,
+      "visits": 2894053
+    },
+    {
+      "testcaseId": 580,
+      "processingTime": 6098.315495,
+      "score": 8.300000000000002,
+      "visits": 1092963
+    },
+    {
+      "testcaseId": 581,
+      "processingTime": 26.981724,
+      "score": -16.3,
+      "visits": 9134
+    },
+    {
+      "testcaseId": 582,
+      "processingTime": 685.50153,
+      "score": -7.700000000000001,
+      "visits": 146442
+    },
+    {
+      "testcaseId": 583,
+      "processingTime": 1118.9756479999999,
+      "score": -3.5,
+      "visits": 325504
+    },
+    {
+      "testcaseId": 584,
+      "processingTime": 38.275907999999994,
+      "score": 14.8,
+      "visits": 8471
+    },
+    {
+      "testcaseId": 585,
+      "processingTime": 285.24847,
+      "score": -22.000000000000004,
+      "visits": 76391
+    },
+    {
+      "testcaseId": 586,
+      "processingTime": 210.63322300000002,
+      "score": 52,
+      "visits": 51860
+    },
+    {
+      "testcaseId": 587,
+      "processingTime": 18173.556877,
+      "score": 9.2,
+      "visits": 4018480
+    },
+    {
+      "testcaseId": 588,
+      "processingTime": 4.521172,
+      "score": 45.300000000000004,
+      "visits": 1385
+    },
+    {
+      "testcaseId": 589,
+      "processingTime": 177.340127,
+      "score": 8.399999999999999,
+      "visits": 63509
+    },
+    {
+      "testcaseId": 590,
+      "processingTime": 74.527934,
+      "score": 9.7,
+      "visits": 17587
+    },
+    {
+      "testcaseId": 591,
+      "processingTime": 9.992937,
+      "score": -12.9,
+      "visits": 2969
+    },
+    {
+      "testcaseId": 592,
+      "processingTime": 20575.028701,
+      "score": 10.7,
+      "visits": 4184642
+    },
+    {
+      "testcaseId": 593,
+      "processingTime": 27.472178,
+      "score": 6,
+      "visits": 5697
+    },
+    {
+      "testcaseId": 594,
+      "processingTime": 282.242285,
+      "score": -7.4,
+      "visits": 72445
+    },
+    {
+      "testcaseId": 595,
+      "processingTime": 24.967916,
+      "score": -0.44999999999999996,
+      "visits": 5747
+    },
+    {
+      "testcaseId": 596,
+      "processingTime": 502.99545300000005,
+      "score": 0,
+      "visits": 131631
+    },
+    {
+      "testcaseId": 597,
+      "processingTime": 3239.150657,
+      "score": -10.8,
+      "visits": 718895
+    },
+    {
+      "testcaseId": 598,
+      "processingTime": 1755.314802,
+      "score": 54.1,
+      "visits": 289586
+    },
+    {
+      "testcaseId": 599,
+      "processingTime": 2389.484086,
+      "score": 66.60000000000001,
+      "visits": 559766
+    },
+    {
+      "testcaseId": 600,
+      "processingTime": 80.52603699999999,
+      "score": -9.9,
+      "visits": 12294
+    },
+    {
+      "testcaseId": 601,
+      "processingTime": 18.087154,
+      "score": -19.4,
+      "visits": 5345
+    },
+    {
+      "testcaseId": 602,
+      "processingTime": 583.1866060000001,
+      "score": -6,
+      "visits": 123242
+    },
+    {
+      "testcaseId": 603,
+      "processingTime": 3325.6386660000003,
+      "score": 17.150000000000002,
+      "visits": 733454
+    },
+    {
+      "testcaseId": 604,
+      "processingTime": 787.769462,
+      "score": -8.5,
+      "visits": 179165
+    },
+    {
+      "testcaseId": 605,
+      "processingTime": 444.966083,
+      "score": -7,
+      "visits": 113630
+    },
+    {
+      "testcaseId": 606,
+      "processingTime": 7.207598,
+      "score": -9.600000000000001,
+      "visits": 2024
+    },
+    {
+      "testcaseId": 607,
+      "processingTime": 11.066504,
+      "score": 7.5,
+      "visits": 2307
+    },
+    {
+      "testcaseId": 608,
+      "processingTime": 400.475663,
+      "score": 8.2,
+      "visits": 95583
+    },
+    {
+      "testcaseId": 609,
+      "processingTime": 197.180675,
+      "score": -16.6,
+      "visits": 53639
+    },
+    {
+      "testcaseId": 610,
+      "processingTime": 183.965682,
+      "score": 6.200000000000002,
+      "visits": 56114
+    },
+    {
+      "testcaseId": 611,
+      "processingTime": 283.066908,
+      "score": -4.6,
+      "visits": 75873
+    },
+    {
+      "testcaseId": 612,
+      "processingTime": 1070.962703,
+      "score": 4.1,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 613,
+      "processingTime": 547.6380790000001,
+      "score": 4,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 614,
+      "processingTime": 3.530776,
+      "score": -8.000000000000002,
+      "visits": 890
+    },
+    {
+      "testcaseId": 615,
+      "processingTime": 88.671579,
+      "score": 43.800000000000004,
+      "visits": 10838
+    },
+    {
+      "testcaseId": 616,
+      "processingTime": 204.114473,
+      "score": 19,
+      "visits": 62072
+    },
+    {
+      "testcaseId": 617,
+      "processingTime": 124.85054199999999,
+      "score": 16.6,
+      "visits": 33841
+    },
+    {
+      "testcaseId": 618,
+      "processingTime": 9.735513,
+      "score": -18.2,
+      "visits": 1487
+    },
+    {
+      "testcaseId": 619,
+      "processingTime": 1293.286856,
+      "score": 0,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 620,
+      "processingTime": 133.74481699999998,
+      "score": 17.6,
+      "visits": 23214
+    },
+    {
+      "testcaseId": 621,
+      "processingTime": 26.448519,
+      "score": -16.7,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 622,
+      "processingTime": 264.799666,
+      "score": 28.6,
+      "visits": 68167
+    },
+    {
+      "testcaseId": 623,
+      "processingTime": 305.299978,
+      "score": -2.5,
+      "visits": 89334
+    },
+    {
+      "testcaseId": 624,
+      "processingTime": 3940.2986530000003,
+      "score": -17.500000000000004,
+      "visits": 773581
+    },
+    {
+      "testcaseId": 625,
+      "processingTime": 95.801448,
+      "score": 11.700000000000001,
+      "visits": 25253
+    },
+    {
+      "testcaseId": 626,
+      "processingTime": 174.789665,
+      "score": -10.1,
+      "visits": 33714
+    },
+    {
+      "testcaseId": 627,
+      "processingTime": 402.137406,
+      "score": 0,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 628,
+      "processingTime": 177.83257799999998,
+      "score": -4,
+      "visits": 53366
+    },
+    {
+      "testcaseId": 629,
+      "processingTime": 1771.121505,
+      "score": -27.9,
+      "visits": 289586
+    },
+    {
+      "testcaseId": 630,
+      "processingTime": 950.5552309999999,
+      "score": 1,
+      "visits": 196217
+    },
+    {
+      "testcaseId": 631,
+      "processingTime": 7.742101000000001,
+      "score": -18.1,
+      "visits": 1150
+    },
+    {
+      "testcaseId": 632,
+      "processingTime": 29.982716999999997,
+      "score": -5.9,
+      "visits": 9800
+    },
+    {
+      "testcaseId": 633,
+      "processingTime": 33.267366,
+      "score": 9.4,
+      "visits": 5431
+    },
+    {
+      "testcaseId": 634,
+      "processingTime": 7.984112,
+      "score": 1.4000000000000004,
+      "visits": 1763
+    },
+    {
+      "testcaseId": 635,
+      "processingTime": 62.196048,
+      "score": 19.5,
+      "visits": 17135
+    },
+    {
+      "testcaseId": 636,
+      "processingTime": 762.870674,
+      "score": 3,
+      "visits": 223003
+    },
+    {
+      "testcaseId": 637,
+      "processingTime": 4611.271461,
+      "score": -2.8,
+      "visits": 938456
+    },
+    {
+      "testcaseId": 638,
+      "processingTime": 1216.886632,
+      "score": 10.799999999999999,
+      "visits": 237965
+    },
+    {
+      "testcaseId": 639,
+      "processingTime": 779.066415,
+      "score": 15.000000000000002,
+      "visits": 161217
+    },
+    {
+      "testcaseId": 640,
+      "processingTime": 41.971499,
+      "score": -21.900000000000002,
+      "visits": 12495
+    },
+    {
+      "testcaseId": 641,
+      "processingTime": 52.326441,
+      "score": -37.8,
+      "visits": 13593
+    },
+    {
+      "testcaseId": 642,
+      "processingTime": 1209.09374,
+      "score": -47.2,
+      "visits": 323876
+    },
+    {
+      "testcaseId": 643,
+      "processingTime": 4643.423159,
+      "score": -9.9,
+      "visits": 932116
+    },
+    {
+      "testcaseId": 644,
+      "processingTime": 14962.308031999999,
+      "score": -5.8,
+      "visits": 3429492
+    },
+    {
+      "testcaseId": 645,
+      "processingTime": 4816.889906,
+      "score": -8,
+      "visits": 973296
+    },
+    {
+      "testcaseId": 646,
+      "processingTime": 1221.445614,
+      "score": 0,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 647,
+      "processingTime": 261.69266400000004,
+      "score": 14.1,
+      "visits": 65947
+    },
+    {
+      "testcaseId": 648,
+      "processingTime": 1.716982,
+      "score": 0.7,
+      "visits": 249
+    },
+    {
+      "testcaseId": 649,
+      "processingTime": 1385.7258800000002,
+      "score": 15,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 650,
+      "processingTime": 246.11730500000002,
+      "score": 17.700000000000003,
+      "visits": 50234
+    },
+    {
+      "testcaseId": 651,
+      "processingTime": 14.146464,
+      "score": -7,
+      "visits": 4327
+    },
+    {
+      "testcaseId": 652,
+      "processingTime": 37.400485999999994,
+      "score": -6.5,
+      "visits": 11312
+    },
+    {
+      "testcaseId": 653,
+      "processingTime": 16.085251,
+      "score": -0.3,
+      "visits": 4051
+    },
+    {
+      "testcaseId": 654,
+      "processingTime": 26.431458000000003,
+      "score": 48.400000000000006,
+      "visits": 7891
+    },
+    {
+      "testcaseId": 655,
+      "processingTime": 20962.560851,
+      "score": 8.7,
+      "visits": 4348632
+    },
+    {
+      "testcaseId": 656,
+      "processingTime": 45.260569000000004,
+      "score": 12.200000000000001,
+      "visits": 9857
+    },
+    {
+      "testcaseId": 657,
+      "processingTime": 22.624774,
+      "score": 1.5,
+      "visits": 3753
+    },
+    {
+      "testcaseId": 658,
+      "processingTime": 2.104841,
+      "score": 10.600000000000001,
+      "visits": 249
+    },
+    {
+      "testcaseId": 659,
+      "processingTime": 56.296008,
+      "score": 24,
+      "visits": 13717
+    },
+    {
+      "testcaseId": 660,
+      "processingTime": 6.259147,
+      "score": 8.4,
+      "visits": 998
+    },
+    {
+      "testcaseId": 661,
+      "processingTime": 782.40104,
+      "score": 13.3,
+      "visits": 161217
+    },
+    {
+      "testcaseId": 662,
+      "processingTime": 16.603993000000003,
+      "score": 10.2,
+      "visits": 4149
+    },
+    {
+      "testcaseId": 663,
+      "processingTime": 72.578614,
+      "score": -0.6,
+      "visits": 23343
+    },
+    {
+      "testcaseId": 664,
+      "processingTime": 8274.407785,
+      "score": 28.1,
+      "visits": 1896983
+    },
+    {
+      "testcaseId": 665,
+      "processingTime": 16.893328999999998,
+      "score": -17.2,
+      "visits": 5651
+    },
+    {
+      "testcaseId": 666,
+      "processingTime": 6349.84395,
+      "score": -1.5,
+      "visits": 1722365
+    },
+    {
+      "testcaseId": 667,
+      "processingTime": 16.793207000000002,
+      "score": -3,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 668,
+      "processingTime": 302.27711800000003,
+      "score": -7.250000000000001,
+      "visits": 77119
+    },
+    {
+      "testcaseId": 669,
+      "processingTime": 4572.977712,
+      "score": -17.2,
+      "visits": 1259463
+    },
+    {
+      "testcaseId": 670,
+      "processingTime": 3642.920964,
+      "score": -13,
+      "visits": 809186
+    },
+    {
+      "testcaseId": 671,
+      "processingTime": 32234.136096999995,
+      "score": 37.3,
+      "visits": 6255043
+    },
+    {
+      "testcaseId": 672,
+      "processingTime": 1799.430045,
+      "score": -42.6,
+      "visits": 283313
+    },
+    {
+      "testcaseId": 673,
+      "processingTime": 176.628286,
+      "score": -16.3,
+      "visits": 50531
+    },
+    {
+      "testcaseId": 674,
+      "processingTime": 15156.387112,
+      "score": -12.3,
+      "visits": 3585934
+    },
+    {
+      "testcaseId": 675,
+      "processingTime": 316.32599300000004,
+      "score": 12,
+      "visits": 47258
+    },
+    {
+      "testcaseId": 676,
+      "processingTime": 3.436292,
+      "score": 10.200000000000001,
+      "visits": 1115
+    },
+    {
+      "testcaseId": 677,
+      "processingTime": 70.928977,
+      "score": -3.9,
+      "visits": 17671
+    },
+    {
+      "testcaseId": 678,
+      "processingTime": 3143.515664,
+      "score": 53.400000000000006,
+      "visits": 711560
+    },
+    {
+      "testcaseId": 679,
+      "processingTime": 5156.395123,
+      "score": 3,
+      "visits": 1445710
+    },
+    {
+      "testcaseId": 680,
+      "processingTime": 4547.097959000001,
+      "score": -2.3,
+      "visits": 1259463
+    },
+    {
+      "testcaseId": 681,
+      "processingTime": 336.34547100000003,
+      "score": 4.6000000000000005,
+      "visits": 48639
+    },
+    {
+      "testcaseId": 682,
+      "processingTime": 500.57108900000003,
+      "score": 23.5,
+      "visits": 112483
+    },
+    {
+      "testcaseId": 683,
+      "processingTime": 1.988259,
+      "score": 8.8,
+      "visits": 449
+    },
+    {
+      "testcaseId": 684,
+      "processingTime": 409.65745799999996,
+      "score": 32.2,
+      "visits": 102819
+    },
+    {
+      "testcaseId": 685,
+      "processingTime": 990.7250829999999,
+      "score": 0.7,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 686,
+      "processingTime": 1656.335254,
+      "score": 3.3999999999999986,
+      "visits": 403462
+    },
+    {
+      "testcaseId": 687,
+      "processingTime": 18.495411,
+      "score": -5.15,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 688,
+      "processingTime": 858.5891220000001,
+      "score": -11.3,
+      "visits": 235283
+    },
+    {
+      "testcaseId": 689,
+      "processingTime": 713.856137,
+      "score": 11.900000000000002,
+      "visits": 150644
+    },
+    {
+      "testcaseId": 690,
+      "processingTime": 21445.603391,
+      "score": -2.3,
+      "visits": 4660830
+    },
+    {
+      "testcaseId": 691,
+      "processingTime": 28.738607,
+      "score": -0.8999999999999999,
+      "visits": 8899
+    },
+    {
+      "testcaseId": 692,
+      "processingTime": 2939.464759,
+      "score": -11.2,
+      "visits": 711560
+    },
+    {
+      "testcaseId": 693,
+      "processingTime": 13204.705294,
+      "score": 3,
+      "visits": 3331773
+    },
+    {
+      "testcaseId": 694,
+      "processingTime": 2895.728036,
+      "score": -6,
+      "visits": 716104
+    },
+    {
+      "testcaseId": 695,
+      "processingTime": 745.4462120000001,
+      "score": -23.9,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 696,
+      "processingTime": 773.88514,
+      "score": 21.7,
+      "visits": 229649
+    },
+    {
+      "testcaseId": 697,
+      "processingTime": 283.317961,
+      "score": -25.700000000000003,
+      "visits": 72670
+    },
+    {
+      "testcaseId": 698,
+      "processingTime": 3724.2731670000003,
+      "score": 17.45,
+      "visits": 821757
+    },
+    {
+      "testcaseId": 699,
+      "processingTime": 44.358048,
+      "score": 0,
+      "visits": 14354
+    },
+    {
+      "testcaseId": 700,
+      "processingTime": 7.17212,
+      "score": -3,
+      "visits": 1380
+    },
+    {
+      "testcaseId": 701,
+      "processingTime": 3859.2313900000004,
+      "score": 17.8,
+      "visits": 710876
+    },
+    {
+      "testcaseId": 702,
+      "processingTime": 2487.751241,
+      "score": 38.6,
+      "visits": 599490
+    },
+    {
+      "testcaseId": 703,
+      "processingTime": 691.794526,
+      "score": 67.8,
+      "visits": 192984
+    },
+    {
+      "testcaseId": 704,
+      "processingTime": 207.20523,
+      "score": 42,
+      "visits": 34031
+    },
+    {
+      "testcaseId": 705,
+      "processingTime": 637.167511,
+      "score": 5.4,
+      "visits": 160411
+    },
+    {
+      "testcaseId": 706,
+      "processingTime": 1.186478,
+      "score": 14.000000000000002,
+      "visits": 269
+    },
+    {
+      "testcaseId": 707,
+      "processingTime": 6.859139,
+      "score": 0.4,
+      "visits": 2438
+    },
+    {
+      "testcaseId": 708,
+      "processingTime": 167.551475,
+      "score": -6,
+      "visits": 50933
+    },
+    {
+      "testcaseId": 709,
+      "processingTime": 47.052389,
+      "score": -6.1,
+      "visits": 5998
+    },
+    {
+      "testcaseId": 710,
+      "processingTime": 269.105091,
+      "score": 48.300000000000004,
+      "visits": 72764
+    },
+    {
+      "testcaseId": 711,
+      "processingTime": 144.653958,
+      "score": 4.8,
+      "visits": 42961
+    },
+    {
+      "testcaseId": 712,
+      "processingTime": 3794.244107,
+      "score": 0.3,
+      "visits": 794697
+    },
+    {
+      "testcaseId": 713,
+      "processingTime": 276.537896,
+      "score": 13.4,
+      "visits": 88803
+    },
+    {
+      "testcaseId": 714,
+      "processingTime": 11264.694919,
+      "score": 0.6,
+      "visits": 2898005
+    },
+    {
+      "testcaseId": 715,
+      "processingTime": 165.671816,
+      "score": 14.2,
+      "visits": 44927
+    },
+    {
+      "testcaseId": 716,
+      "processingTime": 18.120241,
+      "score": 25.1,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 717,
+      "processingTime": 2561.308299,
+      "score": -11.600000000000001,
+      "visits": 603199
+    },
+    {
+      "testcaseId": 718,
+      "processingTime": 187.300183,
+      "score": -46.50000000000001,
+      "visits": 54723
+    },
+    {
+      "testcaseId": 719,
+      "processingTime": 11475.890462000001,
+      "score": -17.3,
+      "visits": 2886925
+    },
+    {
+      "testcaseId": 720,
+      "processingTime": 722.824282,
+      "score": 11.900000000000002,
+      "visits": 218882
+    },
+    {
+      "testcaseId": 721,
+      "processingTime": 207.683624,
+      "score": -0.3,
+      "visits": 63679
+    },
+    {
+      "testcaseId": 722,
+      "processingTime": 6665.724279,
+      "score": 0.15,
+      "visits": 1826231
+    },
+    {
+      "testcaseId": 723,
+      "processingTime": 94.536282,
+      "score": -30.6,
+      "visits": 19155
+    },
+    {
+      "testcaseId": 724,
+      "processingTime": 6519.078118,
+      "score": -6.5,
+      "visits": 1733031
+    },
+    {
+      "testcaseId": 725,
+      "processingTime": 9.793220999999999,
+      "score": 6.3999999999999995,
+      "visits": 3008
+    },
+    {
+      "testcaseId": 726,
+      "processingTime": 3757.965471,
+      "score": 16.8,
+      "visits": 1046865
+    },
+    {
+      "testcaseId": 727,
+      "processingTime": 3.031142,
+      "score": 12.8,
+      "visits": 476
+    },
+    {
+      "testcaseId": 728,
+      "processingTime": 5834.141801000001,
+      "score": 8.7,
+      "visits": 1559475
+    },
+    {
+      "testcaseId": 729,
+      "processingTime": 182.243547,
+      "score": -13.3,
+      "visits": 53366
+    },
+    {
+      "testcaseId": 730,
+      "processingTime": 76.541362,
+      "score": -25.6,
+      "visits": 14071
+    },
+    {
+      "testcaseId": 731,
+      "processingTime": 6.4988600000000005,
+      "score": 0,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 732,
+      "processingTime": 4851.220401,
+      "score": 7.900000000000003,
+      "visits": 938456
+    },
+    {
+      "testcaseId": 733,
+      "processingTime": 358.078846,
+      "score": -3,
+      "visits": 98511
+    },
+    {
+      "testcaseId": 734,
+      "processingTime": 212.341436,
+      "score": -3.6,
+      "visits": 36932
+    },
+    {
+      "testcaseId": 735,
+      "processingTime": 1332.386667,
+      "score": 50.300000000000004,
+      "visits": 323090
+    },
+    {
+      "testcaseId": 736,
+      "processingTime": 635.551059,
+      "score": 48.5,
+      "visits": 139199
+    },
+    {
+      "testcaseId": 737,
+      "processingTime": 2.274859,
+      "score": 29.900000000000006,
+      "visits": 593
+    },
+    {
+      "testcaseId": 738,
+      "processingTime": 229.60850299999998,
+      "score": -16.200000000000003,
+      "visits": 58253
+    },
+    {
+      "testcaseId": 739,
+      "processingTime": 14.314205999999999,
+      "score": -21.6,
+      "visits": 4454
+    },
+    {
+      "testcaseId": 740,
+      "processingTime": 24.064861,
+      "score": -4.6,
+      "visits": 6134
+    },
+    {
+      "testcaseId": 741,
+      "processingTime": 902.502598,
+      "score": -25.800000000000004,
+      "visits": 179165
+    },
+    {
+      "testcaseId": 742,
+      "processingTime": 4360.040223,
+      "score": 0,
+      "visits": 1003386
+    },
+    {
+      "testcaseId": 743,
+      "processingTime": 5928.69858,
+      "score": 8.000000000000002,
+      "visits": 1568744
+    },
+    {
+      "testcaseId": 744,
+      "processingTime": 5818.134121,
+      "score": 1.5,
+      "visits": 1641578
+    },
+    {
+      "testcaseId": 745,
+      "processingTime": 1.465101,
+      "score": -2,
+      "visits": 249
+    },
+    {
+      "testcaseId": 746,
+      "processingTime": 7.398092,
+      "score": 14.700000000000001,
+      "visits": 1277
+    },
+    {
+      "testcaseId": 747,
+      "processingTime": 60.079994,
+      "score": -7.5,
+      "visits": 15043
+    },
+    {
+      "testcaseId": 748,
+      "processingTime": 2373.651304,
+      "score": -4.6,
+      "visits": 591512
+    },
+    {
+      "testcaseId": 749,
+      "processingTime": 700.876957,
+      "score": 12,
+      "visits": 160979
+    },
+    {
+      "testcaseId": 750,
+      "processingTime": 697.847968,
+      "score": -4.7,
+      "visits": 152835
+    },
+    {
+      "testcaseId": 751,
+      "processingTime": 471.15963500000004,
+      "score": -4.9,
+      "visits": 117641
+    },
+    {
+      "testcaseId": 752,
+      "processingTime": 191.636797,
+      "score": -12.3,
+      "visits": 55507
+    },
+    {
+      "testcaseId": 753,
+      "processingTime": 88.215396,
+      "score": -25.05,
+      "visits": 10044
+    },
+    {
+      "testcaseId": 754,
+      "processingTime": 69.446156,
+      "score": 31.900000000000006,
+      "visits": 8475
+    },
+    {
+      "testcaseId": 755,
+      "processingTime": 3274.72833,
+      "score": -6,
+      "visits": 809057
+    },
+    {
+      "testcaseId": 756,
+      "processingTime": 502.62683,
+      "score": -12.9,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 757,
+      "processingTime": 252.691881,
+      "score": -6.8,
+      "visits": 75181
+    },
+    {
+      "testcaseId": 758,
+      "processingTime": 2188.471496,
+      "score": 59.1,
+      "visits": 500214
+    },
+    {
+      "testcaseId": 759,
+      "processingTime": 697.173902,
+      "score": 0,
+      "visits": 173888
+    },
+    {
+      "testcaseId": 760,
+      "processingTime": 446.561688,
+      "score": 13.7,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 761,
+      "processingTime": 846.6944239999999,
+      "score": -35.900000000000006,
+      "visits": 173882
+    },
+    {
+      "testcaseId": 762,
+      "processingTime": 2520.37339,
+      "score": 30.349999999999998,
+      "visits": 591512
+    },
+    {
+      "testcaseId": 763,
+      "processingTime": 48.505364,
+      "score": 17.6,
+      "visits": 13058
+    },
+    {
+      "testcaseId": 764,
+      "processingTime": 230.20164200000002,
+      "score": 0,
+      "visits": 66173
+    },
+    {
+      "testcaseId": 765,
+      "processingTime": 495.134942,
+      "score": 16.1,
+      "visits": 111034
+    },
+    {
+      "testcaseId": 766,
+      "processingTime": 130.662976,
+      "score": 5.4,
+      "visits": 31435
+    },
+    {
+      "testcaseId": 767,
+      "processingTime": 3296.28429,
+      "score": 12,
+      "visits": 809466
+    },
+    {
+      "testcaseId": 768,
+      "processingTime": 1831.2287330000001,
+      "score": 6.100000000000002,
+      "visits": 283313
+    },
+    {
+      "testcaseId": 769,
+      "processingTime": 598.097877,
+      "score": 25.2,
+      "visits": 139199
+    },
+    {
+      "testcaseId": 770,
+      "processingTime": 76.815189,
+      "score": 4.700000000000003,
+      "visits": 16689
+    },
+    {
+      "testcaseId": 771,
+      "processingTime": 920.501013,
+      "score": 45.2,
+      "visits": 266834
+    },
+    {
+      "testcaseId": 772,
+      "processingTime": 90.440255,
+      "score": -19.4,
+      "visits": 19135
+    },
+    {
+      "testcaseId": 773,
+      "processingTime": 10153.513224999999,
+      "score": 53.400000000000006,
+      "visits": 2503049
+    },
+    {
+      "testcaseId": 774,
+      "processingTime": 30.670963999999998,
+      "score": -17.6,
+      "visits": 11306
+    },
+    {
+      "testcaseId": 775,
+      "processingTime": 210.81125,
+      "score": 21.500000000000004,
+      "visits": 56089
+    },
+    {
+      "testcaseId": 776,
+      "processingTime": 144.133143,
+      "score": -12,
+      "visits": 44683
+    },
+    {
+      "testcaseId": 777,
+      "processingTime": 1989.565325,
+      "score": 56.50000000000001,
+      "visits": 463517
+    },
+    {
+      "testcaseId": 778,
+      "processingTime": 136.197639,
+      "score": -0.6,
+      "visits": 41287
+    },
+    {
+      "testcaseId": 779,
+      "processingTime": 374.978288,
+      "score": 14.8,
+      "visits": 92349
+    },
+    {
+      "testcaseId": 780,
+      "processingTime": 602.920033,
+      "score": 30.6,
+      "visits": 189655
+    },
+    {
+      "testcaseId": 781,
+      "processingTime": 624.137402,
+      "score": 12,
+      "visits": 153131
+    },
+    {
+      "testcaseId": 782,
+      "processingTime": 21269.290631,
+      "score": 22.7,
+      "visits": 4610903
+    },
+    {
+      "testcaseId": 783,
+      "processingTime": 47.206152,
+      "score": -5.5,
+      "visits": 10895
+    },
+    {
+      "testcaseId": 784,
+      "processingTime": 4.866671999999999,
+      "score": 0,
+      "visits": 1781
+    },
+    {
+      "testcaseId": 785,
+      "processingTime": 25400.483405,
+      "score": 13.3,
+      "visits": 4965008
+    },
+    {
+      "testcaseId": 786,
+      "processingTime": 60.122446000000004,
+      "score": -8.4,
+      "visits": 15251
+    },
+    {
+      "testcaseId": 787,
+      "processingTime": 965.48884,
+      "score": -3.9,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 788,
+      "processingTime": 3188.00386,
+      "score": -14.700000000000001,
+      "visits": 937525
+    },
+    {
+      "testcaseId": 789,
+      "processingTime": 6.69094,
+      "score": -20.000000000000004,
+      "visits": 1101
+    },
+    {
+      "testcaseId": 790,
+      "processingTime": 8.240383,
+      "score": -9,
+      "visits": 2301
+    },
+    {
+      "testcaseId": 791,
+      "processingTime": 68.46772499999999,
+      "score": 10.8,
+      "visits": 22815
+    },
+    {
+      "testcaseId": 792,
+      "processingTime": 3101.126993,
+      "score": 17.6,
+      "visits": 718895
+    },
+    {
+      "testcaseId": 793,
+      "processingTime": 3129.338886,
+      "score": 15.000000000000002,
+      "visits": 675935
+    },
+    {
+      "testcaseId": 794,
+      "processingTime": 248.014402,
+      "score": 57.5,
+      "visits": 43544
+    },
+    {
+      "testcaseId": 795,
+      "processingTime": 28.621071,
+      "score": 9.400000000000002,
+      "visits": 7775
+    },
+    {
+      "testcaseId": 796,
+      "processingTime": 8.931181,
+      "score": 41.900000000000006,
+      "visits": 2969
+    },
+    {
+      "testcaseId": 797,
+      "processingTime": 662.23116,
+      "score": -1.9,
+      "visits": 153131
+    },
+    {
+      "testcaseId": 798,
+      "processingTime": 59.369076,
+      "score": -21.6,
+      "visits": 10384
+    },
+    {
+      "testcaseId": 799,
+      "processingTime": 25244.580983,
+      "score": -8.6,
+      "visits": 5110309
+    },
+    {
+      "testcaseId": 800,
+      "processingTime": 95.808988,
+      "score": -3,
+      "visits": 23075
+    },
+    {
+      "testcaseId": 801,
+      "processingTime": 143.721864,
+      "score": -0.6,
+      "visits": 37817
+    },
+    {
+      "testcaseId": 802,
+      "processingTime": 157.08192400000001,
+      "score": -3,
+      "visits": 34519
+    },
+    {
+      "testcaseId": 803,
+      "processingTime": 8.888194,
+      "score": -8,
+      "visits": 1380
+    },
+    {
+      "testcaseId": 804,
+      "processingTime": 80.79811000000001,
+      "score": 15.6,
+      "visits": 25027
+    },
+    {
+      "testcaseId": 805,
+      "processingTime": 24.253666,
+      "score": -1.5,
+      "visits": 3785
+    },
+    {
+      "testcaseId": 806,
+      "processingTime": 1089.477323,
+      "score": -17.200000000000003,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 807,
+      "processingTime": 71.099475,
+      "score": 3.2,
+      "visits": 7966
+    },
+    {
+      "testcaseId": 808,
+      "processingTime": 523.779867,
+      "score": 1.8,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 809,
+      "processingTime": 33.531237,
+      "score": -6.8,
+      "visits": 9998
+    },
+    {
+      "testcaseId": 810,
+      "processingTime": 4854.7803140000005,
+      "score": -19.200000000000003,
+      "visits": 1003386
+    },
+    {
+      "testcaseId": 811,
+      "processingTime": 301.03851,
+      "score": -27.900000000000002,
+      "visits": 75800
+    },
+    {
+      "testcaseId": 812,
+      "processingTime": 658.094061,
+      "score": -4.9,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 813,
+      "processingTime": 23.166687,
+      "score": 7.2,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 814,
+      "processingTime": 32.215191999999995,
+      "score": 3.3,
+      "visits": 12341
+    },
+    {
+      "testcaseId": 815,
+      "processingTime": 1044.182909,
+      "score": -17.4,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 816,
+      "processingTime": 911.799804,
+      "score": -3,
+      "visits": 217799
+    },
+    {
+      "testcaseId": 817,
+      "processingTime": 3.306275,
+      "score": -2.9,
+      "visits": 1187
+    },
+    {
+      "testcaseId": 818,
+      "processingTime": 22.163573999999997,
+      "score": -8.499999999999998,
+      "visits": 6551
+    },
+    {
+      "testcaseId": 819,
+      "processingTime": 3463.8835559999998,
+      "score": -10.700000000000003,
+      "visits": 674161
+    },
+    {
+      "testcaseId": 820,
+      "processingTime": 518.792691,
+      "score": 8.600000000000001,
+      "visits": 117803
+    },
+    {
+      "testcaseId": 821,
+      "processingTime": 19953.812787,
+      "score": -4.3,
+      "visits": 4512223
+    },
+    {
+      "testcaseId": 822,
+      "processingTime": 69.94404899999999,
+      "score": -3.45,
+      "visits": 17671
+    },
+    {
+      "testcaseId": 823,
+      "processingTime": 1509.797532,
+      "score": 14.100000000000001,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 824,
+      "processingTime": 33.060262,
+      "score": -16,
+      "visits": 9983
+    },
+    {
+      "testcaseId": 825,
+      "processingTime": 133.532623,
+      "score": 0,
+      "visits": 25961
+    },
+    {
+      "testcaseId": 826,
+      "processingTime": 72.692487,
+      "score": 12.200000000000001,
+      "visits": 9604
+    },
+    {
+      "testcaseId": 827,
+      "processingTime": 2594.741997,
+      "score": 27.200000000000003,
+      "visits": 575747
+    },
+    {
+      "testcaseId": 828,
+      "processingTime": 5177.13209,
+      "score": 6,
+      "visits": 1445710
+    },
+    {
+      "testcaseId": 829,
+      "processingTime": 361.689651,
+      "score": 0,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 830,
+      "processingTime": 624.2335479999999,
+      "score": -45,
+      "visits": 169602
+    },
+    {
+      "testcaseId": 831,
+      "processingTime": 25.611546,
+      "score": 14.3,
+      "visits": 7436
+    },
+    {
+      "testcaseId": 832,
+      "processingTime": 8691.613484,
+      "score": -11.600000000000001,
+      "visits": 2110534
+    },
+    {
+      "testcaseId": 833,
+      "processingTime": 5890.624546,
+      "score": 0.3,
+      "visits": 1641578
+    },
+    {
+      "testcaseId": 834,
+      "processingTime": 177.38486,
+      "score": -12.6,
+      "visits": 52367
+    },
+    {
+      "testcaseId": 835,
+      "processingTime": 1098.27371,
+      "score": -5.200000000000001,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 836,
+      "processingTime": 2.4606749999999997,
+      "score": -9.6,
+      "visits": 644
+    },
+    {
+      "testcaseId": 837,
+      "processingTime": 1534.978834,
+      "score": 9.7,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 838,
+      "processingTime": 1222.8874839999999,
+      "score": -48.00000000000001,
+      "visits": 280084
+    },
+    {
+      "testcaseId": 839,
+      "processingTime": 14282.872942,
+      "score": 54.400000000000006,
+      "visits": 3240666
+    },
+    {
+      "testcaseId": 840,
+      "processingTime": 0.463576,
+      "score": 2.1,
+      "visits": 89
+    },
+    {
+      "testcaseId": 841,
+      "processingTime": 66.87111399999999,
+      "score": 8,
+      "visits": 16211
+    },
+    {
+      "testcaseId": 842,
+      "processingTime": 29.020143,
+      "score": -3.7,
+      "visits": 4635
+    },
+    {
+      "testcaseId": 843,
+      "processingTime": 62.474981,
+      "score": -4,
+      "visits": 19994
+    },
+    {
+      "testcaseId": 844,
+      "processingTime": 38.034242000000006,
+      "score": -14.8,
+      "visits": 12825
+    },
+    {
+      "testcaseId": 845,
+      "processingTime": 1085.458971,
+      "score": 17.6,
+      "visits": 217799
+    },
+    {
+      "testcaseId": 846,
+      "processingTime": 3719.3888300000003,
+      "score": -2.8,
+      "visits": 918350
+    },
+    {
+      "testcaseId": 847,
+      "processingTime": 3899.541062,
+      "score": 5,
+      "visits": 838421
+    },
+    {
+      "testcaseId": 848,
+      "processingTime": 168.54337,
+      "score": 10.8,
+      "visits": 46399
+    },
+    {
+      "testcaseId": 849,
+      "processingTime": 21.465677999999997,
+      "score": -9,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 850,
+      "processingTime": 412.868036,
+      "score": -44,
+      "visits": 134151
+    },
+    {
+      "testcaseId": 851,
+      "processingTime": 127.13264799999999,
+      "score": -1.5,
+      "visits": 48455
+    },
+    {
+      "testcaseId": 852,
+      "processingTime": 626.931743,
+      "score": 41,
+      "visits": 139199
+    },
+    {
+      "testcaseId": 853,
+      "processingTime": 789.4939880000001,
+      "score": -4.9,
+      "visits": 178208
+    },
+    {
+      "testcaseId": 854,
+      "processingTime": 731.605941,
+      "score": -12.8,
+      "visits": 150650
+    },
+    {
+      "testcaseId": 855,
+      "processingTime": 190.646972,
+      "score": -6.2,
+      "visits": 65001
+    },
+    {
+      "testcaseId": 856,
+      "processingTime": 226.313715,
+      "score": 14.600000000000001,
+      "visits": 35027
+    },
+    {
+      "testcaseId": 857,
+      "processingTime": 78.129063,
+      "score": -15.75,
+      "visits": 21779
+    },
+    {
+      "testcaseId": 858,
+      "processingTime": 589.375215,
+      "score": 18.5,
+      "visits": 123242
+    },
+    {
+      "testcaseId": 859,
+      "processingTime": 134.902447,
+      "score": -2,
+      "visits": 32324
+    },
+    {
+      "testcaseId": 860,
+      "processingTime": 367.927354,
+      "score": 15.300000000000002,
+      "visits": 86547
+    },
+    {
+      "testcaseId": 861,
+      "processingTime": 286.085951,
+      "score": -9,
+      "visits": 75800
+    },
+    {
+      "testcaseId": 862,
+      "processingTime": 7.441815,
+      "score": 70.8,
+      "visits": 2631
+    },
+    {
+      "testcaseId": 863,
+      "processingTime": 36.744872,
+      "score": 3,
+      "visits": 11780
+    },
+    {
+      "testcaseId": 864,
+      "processingTime": 42.831846,
+      "score": 21.500000000000004,
+      "visits": 16037
+    },
+    {
+      "testcaseId": 865,
+      "processingTime": 18830.305284000002,
+      "score": -2,
+      "visits": 4348632
+    },
+    {
+      "testcaseId": 866,
+      "processingTime": 218.399429,
+      "score": 2.7,
+      "visits": 60333
+    },
+    {
+      "testcaseId": 867,
+      "processingTime": 5020.153345,
+      "score": 27.700000000000006,
+      "visits": 878226
+    },
+    {
+      "testcaseId": 868,
+      "processingTime": 135.635722,
+      "score": 19.000000000000004,
+      "visits": 36303
+    },
+    {
+      "testcaseId": 869,
+      "processingTime": 257.42805699999997,
+      "score": 13.400000000000002,
+      "visits": 66403
+    },
+    {
+      "testcaseId": 870,
+      "processingTime": 277.749224,
+      "score": 11.8,
+      "visits": 68909
+    },
+    {
+      "testcaseId": 871,
+      "processingTime": 1152.555851,
+      "score": 16.9,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 872,
+      "processingTime": 3644.863726,
+      "score": -11.600000000000001,
+      "visits": 820409
+    },
+    {
+      "testcaseId": 873,
+      "processingTime": 117.810333,
+      "score": -25,
+      "visits": 37227
+    },
+    {
+      "testcaseId": 874,
+      "processingTime": 1495.370319,
+      "score": 17.2,
+      "visits": 246692
+    },
+    {
+      "testcaseId": 875,
+      "processingTime": 13075.271283999999,
+      "score": -4.3,
+      "visits": 2821285
+    },
+    {
+      "testcaseId": 876,
+      "processingTime": 195.97954000000001,
+      "score": 22.700000000000003,
+      "visits": 30021
+    },
+    {
+      "testcaseId": 877,
+      "processingTime": 177.079328,
+      "score": 15.2,
+      "visits": 40607
+    },
+    {
+      "testcaseId": 878,
+      "processingTime": 3378.5698279999997,
+      "score": 2,
+      "visits": 820409
+    },
+    {
+      "testcaseId": 879,
+      "processingTime": 25.87201,
+      "score": -18.3,
+      "visits": 8909
+    },
+    {
+      "testcaseId": 880,
+      "processingTime": 42.852769,
+      "score": 58.9,
+      "visits": 13115
+    },
+    {
+      "testcaseId": 881,
+      "processingTime": 528.520726,
+      "score": 2,
+      "visits": 131852
+    },
+    {
+      "testcaseId": 882,
+      "processingTime": 512.790448,
+      "score": -5.9,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 883,
+      "processingTime": 15.322401,
+      "score": -4.6,
+      "visits": 4559
+    },
+    {
+      "testcaseId": 884,
+      "processingTime": 1470.4744130000001,
+      "score": 28,
+      "visits": 377090
+    },
+    {
+      "testcaseId": 885,
+      "processingTime": 78.26651,
+      "score": -4,
+      "visits": 24679
+    },
+    {
+      "testcaseId": 886,
+      "processingTime": 49.617966,
+      "score": -3,
+      "visits": 13570
+    },
+    {
+      "testcaseId": 887,
+      "processingTime": 964.5052929999999,
+      "score": 3,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 888,
+      "processingTime": 448.240917,
+      "score": -9.4,
+      "visits": 100042
+    },
+    {
+      "testcaseId": 889,
+      "processingTime": 633.4537449999999,
+      "score": 28.8,
+      "visits": 139642
+    },
+    {
+      "testcaseId": 890,
+      "processingTime": 118.21664299999999,
+      "score": 3,
+      "visits": 35930
+    },
+    {
+      "testcaseId": 891,
+      "processingTime": 5528.143445000001,
+      "score": -12,
+      "visits": 1066766
+    },
+    {
+      "testcaseId": 892,
+      "processingTime": 7.389595,
+      "score": 32.400000000000006,
+      "visits": 2081
+    },
+    {
+      "testcaseId": 893,
+      "processingTime": 35674.783949000004,
+      "score": -13.750000000000002,
+      "visits": 8475876
+    },
+    {
+      "testcaseId": 894,
+      "processingTime": 1490.432371,
+      "score": -27,
+      "visits": 369575
+    },
+    {
+      "testcaseId": 895,
+      "processingTime": 969.879972,
+      "score": -1.3,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 896,
+      "processingTime": 1731.7039590000002,
+      "score": -6.5,
+      "visits": 454670
+    },
+    {
+      "testcaseId": 897,
+      "processingTime": 1126.185168,
+      "score": 39.5,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 898,
+      "processingTime": 777.439722,
+      "score": -7.9,
+      "visits": 182258
+    },
+    {
+      "testcaseId": 899,
+      "processingTime": 526.5981979999999,
+      "score": -4.9,
+      "visits": 124004
+    },
+    {
+      "testcaseId": 900,
+      "processingTime": 383.44046399999996,
+      "score": 0,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 901,
+      "processingTime": 993.936688,
+      "score": 15.000000000000002,
+      "visits": 205772
+    },
+    {
+      "testcaseId": 902,
+      "processingTime": 87.666208,
+      "score": 51.10000000000001,
+      "visits": 31999
+    },
+    {
+      "testcaseId": 903,
+      "processingTime": 3.080188,
+      "score": 12.600000000000001,
+      "visits": 1079
+    },
+    {
+      "testcaseId": 904,
+      "processingTime": 285.909602,
+      "score": -17.4,
+      "visits": 83117
+    },
+    {
+      "testcaseId": 905,
+      "processingTime": 88.107341,
+      "score": 13.400000000000002,
+      "visits": 28999
+    },
+    {
+      "testcaseId": 906,
+      "processingTime": 23.67791,
+      "score": 34.60000000000001,
+      "visits": 6749
+    },
+    {
+      "testcaseId": 907,
+      "processingTime": 622.834989,
+      "score": -1.6,
+      "visits": 141196
+    },
+    {
+      "testcaseId": 908,
+      "processingTime": 87.49274,
+      "score": 0,
+      "visits": 20557
+    },
+    {
+      "testcaseId": 909,
+      "processingTime": 17993.964579,
+      "score": 4.500000000000002,
+      "visits": 3667781
+    },
+    {
+      "testcaseId": 910,
+      "processingTime": 90.88511700000001,
+      "score": 14.600000000000001,
+      "visits": 10838
+    },
+    {
+      "testcaseId": 911,
+      "processingTime": 20.422498,
+      "score": -5.7,
+      "visits": 5357
+    },
+    {
+      "testcaseId": 912,
+      "processingTime": 195.834278,
+      "score": 39.900000000000006,
+      "visits": 27096
+    },
+    {
+      "testcaseId": 913,
+      "processingTime": 13.214621,
+      "score": 9.5,
+      "visits": 4130
+    },
+    {
+      "testcaseId": 914,
+      "processingTime": 19.696208,
+      "score": 7.4,
+      "visits": 4055
+    },
+    {
+      "testcaseId": 915,
+      "processingTime": 3279.642495,
+      "score": 3,
+      "visits": 754791
+    },
+    {
+      "testcaseId": 916,
+      "processingTime": 1653.843554,
+      "score": -1.2,
+      "visits": 510909
+    },
+    {
+      "testcaseId": 917,
+      "processingTime": 18.16642,
+      "score": 29.100000000000005,
+      "visits": 3914
+    },
+    {
+      "testcaseId": 918,
+      "processingTime": 17.583313,
+      "score": -0.1999999999999984,
+      "visits": 5690
+    },
+    {
+      "testcaseId": 919,
+      "processingTime": 235.08451,
+      "score": 10.200000000000001,
+      "visits": 58253
+    },
+    {
+      "testcaseId": 920,
+      "processingTime": 25353.071347,
+      "score": 8,
+      "visits": 5448520
+    },
+    {
+      "testcaseId": 921,
+      "processingTime": 93.20285200000001,
+      "score": -5.8,
+      "visits": 28469
+    },
+    {
+      "testcaseId": 922,
+      "processingTime": 6071.809842000001,
+      "score": 24.8,
+      "visits": 1568744
+    },
+    {
+      "testcaseId": 923,
+      "processingTime": 11.077038000000002,
+      "score": 18.000000000000004,
+      "visits": 3467
+    },
+    {
+      "testcaseId": 924,
+      "processingTime": 29904.645246,
+      "score": 12,
+      "visits": 6196682
+    },
+    {
+      "testcaseId": 925,
+      "processingTime": 687.566693,
+      "score": -1.5,
+      "visits": 162540
+    },
+    {
+      "testcaseId": 926,
+      "processingTime": 423.687012,
+      "score": -17.4,
+      "visits": 100042
+    },
+    {
+      "testcaseId": 927,
+      "processingTime": 25.468861999999998,
+      "score": -42.5,
+      "visits": 6329
+    },
+    {
+      "testcaseId": 928,
+      "processingTime": 13613.926635,
+      "score": 5.7,
+      "visits": 3108581
+    },
+    {
+      "testcaseId": 929,
+      "processingTime": 478.570424,
+      "score": -1,
+      "visits": 94131
+    },
+    {
+      "testcaseId": 930,
+      "processingTime": 32.869721999999996,
+      "score": -11.2,
+      "visits": 9767
+    },
+    {
+      "testcaseId": 931,
+      "processingTime": 1021.2585519999999,
+      "score": -5.600000000000001,
+      "visits": 201927
+    },
+    {
+      "testcaseId": 932,
+      "processingTime": 77.370435,
+      "score": 39.60000000000001,
+      "visits": 25967
+    },
+    {
+      "testcaseId": 933,
+      "processingTime": 58.813292000000004,
+      "score": -13.200000000000001,
+      "visits": 7966
+    },
+    {
+      "testcaseId": 934,
+      "processingTime": 190.36207199999998,
+      "score": 38.6,
+      "visits": 53366
+    },
+    {
+      "testcaseId": 935,
+      "processingTime": 291.976721,
+      "score": -10.500000000000002,
+      "visits": 71773
+    },
+    {
+      "testcaseId": 936,
+      "processingTime": 174.052786,
+      "score": -11.700000000000001,
+      "visits": 33714
+    },
+    {
+      "testcaseId": 937,
+      "processingTime": 41.872215999999995,
+      "score": 15.400000000000002,
+      "visits": 14039
+    },
+    {
+      "testcaseId": 938,
+      "processingTime": 761.646484,
+      "score": 15.3,
+      "visits": 234464
+    },
+    {
+      "testcaseId": 939,
+      "processingTime": 119.617282,
+      "score": 19.5,
+      "visits": 37817
+    },
+    {
+      "testcaseId": 940,
+      "processingTime": 62.268843999999994,
+      "score": 46.5,
+      "visits": 15043
+    },
+    {
+      "testcaseId": 941,
+      "processingTime": 3116.949691,
+      "score": 8.5,
+      "visits": 704276
+    },
+    {
+      "testcaseId": 942,
+      "processingTime": 5917.53412,
+      "score": 15.7,
+      "visits": 1583853
+    },
+    {
+      "testcaseId": 943,
+      "processingTime": 16.558447,
+      "score": 3,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 944,
+      "processingTime": 208.99362599999998,
+      "score": 52.400000000000006,
+      "visits": 52337
+    },
+    {
+      "testcaseId": 945,
+      "processingTime": 78.242499,
+      "score": -8.6,
+      "visits": 24677
+    },
+    {
+      "testcaseId": 946,
+      "processingTime": 3.877687,
+      "score": 32.300000000000004,
+      "visits": 1275
+    },
+    {
+      "testcaseId": 947,
+      "processingTime": 75.246596,
+      "score": 15.500000000000002,
+      "visits": 17739
+    },
+    {
+      "testcaseId": 948,
+      "processingTime": 61.330816000000006,
+      "score": -1.7999999999999998,
+      "visits": 12983
+    },
+    {
+      "testcaseId": 949,
+      "processingTime": 1.947464,
+      "score": 6.6000000000000005,
+      "visits": 362
+    },
+    {
+      "testcaseId": 950,
+      "processingTime": 51.001014,
+      "score": 6.4,
+      "visits": 8659
+    },
+    {
+      "testcaseId": 951,
+      "processingTime": 949.124695,
+      "score": 0.6,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 952,
+      "processingTime": 841.992171,
+      "score": -4.9,
+      "visits": 173882
+    },
+    {
+      "testcaseId": 953,
+      "processingTime": 18.764299,
+      "score": 0,
+      "visits": 3661
+    },
+    {
+      "testcaseId": 954,
+      "processingTime": 745.343623,
+      "score": -40.2,
+      "visits": 161217
+    },
+    {
+      "testcaseId": 955,
+      "processingTime": 492.039754,
+      "score": 7.25,
+      "visits": 113630
+    },
+    {
+      "testcaseId": 956,
+      "processingTime": 1763.065122,
+      "score": 18.700000000000003,
+      "visits": 283313
+    },
+    {
+      "testcaseId": 957,
+      "processingTime": 645.498887,
+      "score": 11.7,
+      "visits": 139199
+    },
+    {
+      "testcaseId": 958,
+      "processingTime": 9228.788483,
+      "score": 74.2,
+      "visits": 2108282
+    },
+    {
+      "testcaseId": 959,
+      "processingTime": 1721.759452,
+      "score": 14.100000000000001,
+      "visits": 289586
+    },
+    {
+      "testcaseId": 960,
+      "processingTime": 1460.893935,
+      "score": 13.500000000000002,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 961,
+      "processingTime": 80.327073,
+      "score": 43.400000000000006,
+      "visits": 24679
+    },
+    {
+      "testcaseId": 962,
+      "processingTime": 6.627537,
+      "score": 38,
+      "visits": 1129
+    },
+    {
+      "testcaseId": 963,
+      "processingTime": 46.451209,
+      "score": 34.1,
+      "visits": 12761
+    },
+    {
+      "testcaseId": 964,
+      "processingTime": 571.360199,
+      "score": 41.900000000000006,
+      "visits": 123242
+    },
+    {
+      "testcaseId": 965,
+      "processingTime": 123.527679,
+      "score": -36.849999999999994,
+      "visits": 26035
+    },
+    {
+      "testcaseId": 966,
+      "processingTime": 73.404261,
+      "score": 3,
+      "visits": 16813
+    },
+    {
+      "testcaseId": 967,
+      "processingTime": 13.305316,
+      "score": 8.8,
+      "visits": 2707
+    },
+    {
+      "testcaseId": 968,
+      "processingTime": 148.550314,
+      "score": 12.200000000000003,
+      "visits": 39104
+    },
+    {
+      "testcaseId": 969,
+      "processingTime": 1787.5836709999999,
+      "score": 52.7,
+      "visits": 289586
+    },
+    {
+      "testcaseId": 970,
+      "processingTime": 629.665772,
+      "score": 11.100000000000001,
+      "visits": 176885
+    },
+    {
+      "testcaseId": 971,
+      "processingTime": 1098.2104980000001,
+      "score": 3,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 972,
+      "processingTime": 6.413257000000001,
+      "score": 0.9000000000000008,
+      "visits": 1484
+    },
+    {
+      "testcaseId": 973,
+      "processingTime": 603.780319,
+      "score": -33.6,
+      "visits": 139365
+    },
+    {
+      "testcaseId": 974,
+      "processingTime": 19.849944,
+      "score": -67.2,
+      "visits": 6119
+    },
+    {
+      "testcaseId": 975,
+      "processingTime": 35.606634,
+      "score": 13.8,
+      "visits": 6265
+    },
+    {
+      "testcaseId": 976,
+      "processingTime": 948.875905,
+      "score": 2.4,
+      "visits": 287519
+    },
+    {
+      "testcaseId": 977,
+      "processingTime": 778.73044,
+      "score": -2.3,
+      "visits": 231093
+    },
+    {
+      "testcaseId": 978,
+      "processingTime": 19708.271143,
+      "score": 11.4,
+      "visits": 4210346
+    },
+    {
+      "testcaseId": 979,
+      "processingTime": 11003.25355,
+      "score": 17,
+      "visits": 2650885
+    },
+    {
+      "testcaseId": 980,
+      "processingTime": 1665.787994,
+      "score": 13.1,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 981,
+      "processingTime": 159.57656,
+      "score": 43.900000000000006,
+      "visits": 22840
+    },
+    {
+      "testcaseId": 982,
+      "processingTime": 6.229807,
+      "score": -3,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 983,
+      "processingTime": 280.317134,
+      "score": -9,
+      "visits": 84119
+    },
+    {
+      "testcaseId": 984,
+      "processingTime": 94.323782,
+      "score": 4.5,
+      "visits": 27896
+    },
+    {
+      "testcaseId": 985,
+      "processingTime": 130.157947,
+      "score": -4.5,
+      "visits": 37691
+    },
+    {
+      "testcaseId": 986,
+      "processingTime": 67.619776,
+      "score": 0.5999999999999993,
+      "visits": 7966
+    },
+    {
+      "testcaseId": 987,
+      "processingTime": 699.892069,
+      "score": 0,
+      "visits": 150644
+    },
+    {
+      "testcaseId": 988,
+      "processingTime": 66.98534000000001,
+      "score": -40.6,
+      "visits": 13399
+    },
+    {
+      "testcaseId": 989,
+      "processingTime": 42.26366,
+      "score": -18.8,
+      "visits": 9431
+    },
+    {
+      "testcaseId": 990,
+      "processingTime": 477.434502,
+      "score": 18.950000000000003,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 991,
+      "processingTime": 622.825789,
+      "score": -12.2,
+      "visits": 131348
+    },
+    {
+      "testcaseId": 992,
+      "processingTime": 17778.04737,
+      "score": 2.6000000000000014,
+      "visits": 3686727
+    },
+    {
+      "testcaseId": 993,
+      "processingTime": 816.888967,
+      "score": 0,
+      "visits": 244797
+    },
+    {
+      "testcaseId": 994,
+      "processingTime": 811.98872,
+      "score": -1.5,
+      "visits": 180944
+    },
+    {
+      "testcaseId": 995,
+      "processingTime": 48.604136,
+      "score": -1.2,
+      "visits": 12759
+    },
+    {
+      "testcaseId": 996,
+      "processingTime": 9759.474495999999,
+      "score": -5,
+      "visits": 2396333
+    },
+    {
+      "testcaseId": 997,
+      "processingTime": 1437.969306,
+      "score": 22.1,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 998,
+      "processingTime": 451.20240900000005,
+      "score": 32.900000000000006,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 999,
+      "processingTime": 1448.062508,
+      "score": 15,
+      "visits": 266329
+    }
+  ],
+  "Testing CSP 18": [
+    {
+      "testcaseId": 0,
+      "processingTime": 44.834617000073195,
+      "score": 18,
+      "visits": 229
+    },
+    {
+      "testcaseId": 1,
+      "processingTime": 5.382473999634385,
+      "score": 8.9,
+      "visits": 86
+    },
+    {
+      "testcaseId": 2,
+      "processingTime": 8.039687000215054,
+      "score": 9.5,
+      "visits": 79
+    },
+    {
+      "testcaseId": 3,
+      "processingTime": 70.21754500083625,
+      "score": 16.6,
+      "visits": 311
+    },
+    {
+      "testcaseId": 4,
+      "processingTime": 18.686718000099063,
+      "score": -10.700000000000001,
+      "visits": 169
+    },
+    {
+      "testcaseId": 5,
+      "processingTime": 10.149529999122024,
+      "score": 7.700000000000001,
+      "visits": 77
+    },
+    {
+      "testcaseId": 6,
+      "processingTime": 15.869466001167893,
+      "score": 0,
+      "visits": 174
+    },
+    {
+      "testcaseId": 7,
+      "processingTime": 17.356726000085473,
+      "score": 6.700000000000001,
+      "visits": 76
+    },
+    {
+      "testcaseId": 8,
+      "processingTime": 20.068842999637127,
+      "score": 5.4,
+      "visits": 175
+    },
+    {
+      "testcaseId": 9,
+      "processingTime": 10.072783999145031,
+      "score": -0.2999999999999998,
+      "visits": 131
+    },
+    {
+      "testcaseId": 10,
+      "processingTime": 19.420878998935223,
+      "score": -4.3,
+      "visits": 174
+    },
+    {
+      "testcaseId": 11,
+      "processingTime": 17.521798999980092,
+      "score": 14.7,
+      "visits": 136
+    },
+    {
+      "testcaseId": 12,
+      "processingTime": 21.301459999755025,
+      "score": -8,
+      "visits": 150
+    },
+    {
+      "testcaseId": 13,
+      "processingTime": 13.606447000056505,
+      "score": -12.4,
+      "visits": 198
+    },
+    {
+      "testcaseId": 14,
+      "processingTime": 23.69166599959135,
+      "score": -9.2,
+      "visits": 176
+    },
+    {
+      "testcaseId": 15,
+      "processingTime": 48.041561000049114,
+      "score": -5,
+      "visits": 307
+    },
+    {
+      "testcaseId": 16,
+      "processingTime": 32.237687999382615,
+      "score": -14.200000000000001,
+      "visits": 183
+    },
+    {
+      "testcaseId": 17,
+      "processingTime": 58.102967999875546,
+      "score": 7.800000000000001,
+      "visits": 238
+    },
+    {
+      "testcaseId": 18,
+      "processingTime": 16.293969999998808,
+      "score": 15.600000000000001,
+      "visits": 152
+    },
+    {
+      "testcaseId": 19,
+      "processingTime": 20.114698000252247,
+      "score": 6.500000000000002,
+      "visits": 201
+    },
+    {
+      "testcaseId": 20,
+      "processingTime": 12.20817100070417,
+      "score": 10.200000000000001,
+      "visits": 83
+    },
+    {
+      "testcaseId": 21,
+      "processingTime": 9.323658000677824,
+      "score": 14.100000000000001,
+      "visits": 65
+    },
+    {
+      "testcaseId": 22,
+      "processingTime": 43.41607099957764,
+      "score": -14.100000000000001,
+      "visits": 240
+    },
+    {
+      "testcaseId": 23,
+      "processingTime": 4.257246000692248,
+      "score": -7.5,
+      "visits": 43
+    },
+    {
+      "testcaseId": 24,
+      "processingTime": 22.29728500172496,
+      "score": 7.1,
+      "visits": 179
+    },
+    {
+      "testcaseId": 25,
+      "processingTime": 24.595213999971747,
+      "score": -1.2,
+      "visits": 145
+    },
+    {
+      "testcaseId": 26,
+      "processingTime": 15.867707999423146,
+      "score": 13.900000000000002,
+      "visits": 158
+    },
+    {
+      "testcaseId": 27,
+      "processingTime": 54.30788300000131,
+      "score": 10.700000000000003,
+      "visits": 157
+    },
+    {
+      "testcaseId": 28,
+      "processingTime": 11.509378001093864,
+      "score": -8.4,
+      "visits": 103
+    },
+    {
+      "testcaseId": 29,
+      "processingTime": 19.17493600025773,
+      "score": -21.6,
+      "visits": 121
+    },
+    {
+      "testcaseId": 30,
+      "processingTime": 4.774718001484871,
+      "score": 5.5,
+      "visits": 41
+    },
+    {
+      "testcaseId": 31,
+      "processingTime": 60.60044500045478,
+      "score": -14.500000000000002,
+      "visits": 317
+    },
+    {
+      "testcaseId": 32,
+      "processingTime": 10.74706600047648,
+      "score": -1,
+      "visits": 130
+    },
+    {
+      "testcaseId": 33,
+      "processingTime": 14.137984000146389,
+      "score": 9.700000000000001,
+      "visits": 140
+    },
+    {
+      "testcaseId": 34,
+      "processingTime": 42.0256910007447,
+      "score": -5.9,
+      "visits": 313
+    },
+    {
+      "testcaseId": 35,
+      "processingTime": 18.65125299990177,
+      "score": -17.3,
+      "visits": 105
+    },
+    {
+      "testcaseId": 36,
+      "processingTime": 28.16832000017166,
+      "score": 22.6,
+      "visits": 216
+    },
+    {
+      "testcaseId": 37,
+      "processingTime": 12.418716000393033,
+      "score": -0.6999999999999997,
+      "visits": 114
+    },
+    {
+      "testcaseId": 38,
+      "processingTime": 86.07411599904299,
+      "score": 15.600000000000001,
+      "visits": 294
+    },
+    {
+      "testcaseId": 39,
+      "processingTime": 18.046470001339912,
+      "score": -4.3,
+      "visits": 142
+    },
+    {
+      "testcaseId": 40,
+      "processingTime": 13.405499000102282,
+      "score": 8.600000000000001,
+      "visits": 182
+    },
+    {
+      "testcaseId": 41,
+      "processingTime": 17.744683001190424,
+      "score": 10.200000000000001,
+      "visits": 145
+    },
+    {
+      "testcaseId": 42,
+      "processingTime": 19.679568998515606,
+      "score": 11.8,
+      "visits": 158
+    },
+    {
+      "testcaseId": 43,
+      "processingTime": 19.383009999990463,
+      "score": 11.599999999999998,
+      "visits": 165
+    },
+    {
+      "testcaseId": 44,
+      "processingTime": 29.383465001359582,
+      "score": -5.6,
+      "visits": 149
+    },
+    {
+      "testcaseId": 45,
+      "processingTime": 13.09188700094819,
+      "score": -8.8,
+      "visits": 67
+    },
+    {
+      "testcaseId": 46,
+      "processingTime": 15.766759000718594,
+      "score": 13.600000000000001,
+      "visits": 137
+    },
+    {
+      "testcaseId": 47,
+      "processingTime": 17.592114999890327,
+      "score": 19.6,
+      "visits": 99
+    },
+    {
+      "testcaseId": 48,
+      "processingTime": 27.248581999912858,
+      "score": 18.7,
+      "visits": 177
+    },
+    {
+      "testcaseId": 49,
+      "processingTime": 25.65963700041175,
+      "score": 14.200000000000001,
+      "visits": 162
+    },
+    {
+      "testcaseId": 50,
+      "processingTime": 66.04225599952042,
+      "score": 16.599999999999998,
+      "visits": 301
+    },
+    {
+      "testcaseId": 51,
+      "processingTime": 59.617800001055,
+      "score": 18.2,
+      "visits": 310
+    },
+    {
+      "testcaseId": 52,
+      "processingTime": 17.402847999706864,
+      "score": 12.400000000000002,
+      "visits": 159
+    },
+    {
+      "testcaseId": 53,
+      "processingTime": 4.7025420013815165,
+      "score": -13.4,
+      "visits": 96
+    },
+    {
+      "testcaseId": 54,
+      "processingTime": 12.792912000790238,
+      "score": 12.7,
+      "visits": 113
+    },
+    {
+      "testcaseId": 55,
+      "processingTime": 27.76498500071466,
+      "score": 11.100000000000001,
+      "visits": 150
+    },
+    {
+      "testcaseId": 56,
+      "processingTime": 10.942275000736117,
+      "score": -3.6,
+      "visits": 117
+    },
+    {
+      "testcaseId": 57,
+      "processingTime": 11.140355000272393,
+      "score": -28,
+      "visits": 91
+    },
+    {
+      "testcaseId": 58,
+      "processingTime": 18.494331000372767,
+      "score": 4.300000000000001,
+      "visits": 169
+    },
+    {
+      "testcaseId": 59,
+      "processingTime": 14.189385000616312,
+      "score": 8.5,
+      "visits": 186
+    },
+    {
+      "testcaseId": 60,
+      "processingTime": 59.77176400087774,
+      "score": 18.6,
+      "visits": 303
+    },
+    {
+      "testcaseId": 61,
+      "processingTime": 5.280251000076532,
+      "score": 8.9,
+      "visits": 83
+    },
+    {
+      "testcaseId": 62,
+      "processingTime": 48.934437999501824,
+      "score": 17.599999999999998,
+      "visits": 304
+    },
+    {
+      "testcaseId": 63,
+      "processingTime": 10.455908000469208,
+      "score": -1.2000000000000002,
+      "visits": 97
+    },
+    {
+      "testcaseId": 64,
+      "processingTime": 39.763591999188066,
+      "score": -18.5,
+      "visits": 253
+    },
+    {
+      "testcaseId": 65,
+      "processingTime": 55.993328001350164,
+      "score": -0.6,
+      "visits": 299
+    },
+    {
+      "testcaseId": 66,
+      "processingTime": 15.005460999906063,
+      "score": 10.600000000000001,
+      "visits": 73
+    },
+    {
+      "testcaseId": 67,
+      "processingTime": 54.40182099863887,
+      "score": 25,
+      "visits": 301
+    },
+    {
+      "testcaseId": 68,
+      "processingTime": 22.160360999405384,
+      "score": -8.2,
+      "visits": 211
+    },
+    {
+      "testcaseId": 69,
+      "processingTime": 26.425820000469685,
+      "score": 3,
+      "visits": 207
+    },
+    {
+      "testcaseId": 70,
+      "processingTime": 20.806446999311447,
+      "score": 1.0999999999999996,
+      "visits": 179
+    },
+    {
+      "testcaseId": 71,
+      "processingTime": 43.740314999595284,
+      "score": 6.400000000000002,
+      "visits": 172
+    },
+    {
+      "testcaseId": 72,
+      "processingTime": 5.015761999413371,
+      "score": 4.5,
+      "visits": 79
+    },
+    {
+      "testcaseId": 73,
+      "processingTime": 59.68704999983311,
+      "score": 21.7,
+      "visits": 238
+    },
+    {
+      "testcaseId": 74,
+      "processingTime": 15.96437899954617,
+      "score": 16.2,
+      "visits": 82
+    },
+    {
+      "testcaseId": 75,
+      "processingTime": 7.017975000664592,
+      "score": 1.7000000000000002,
+      "visits": 87
+    },
+    {
+      "testcaseId": 76,
+      "processingTime": 7.142890999093652,
+      "score": 12,
+      "visits": 105
+    },
+    {
+      "testcaseId": 77,
+      "processingTime": 15.45724800042808,
+      "score": -0.3,
+      "visits": 186
+    },
+    {
+      "testcaseId": 78,
+      "processingTime": 29.906014000996947,
+      "score": 11.800000000000002,
+      "visits": 187
+    },
+    {
+      "testcaseId": 79,
+      "processingTime": 18.946532998234034,
+      "score": -1.2,
+      "visits": 88
+    },
+    {
+      "testcaseId": 80,
+      "processingTime": 33.57501600123942,
+      "score": 11.299999999999999,
+      "visits": 164
+    },
+    {
+      "testcaseId": 81,
+      "processingTime": 20.602357000112534,
+      "score": 9.5,
+      "visits": 169
+    },
+    {
+      "testcaseId": 82,
+      "processingTime": 6.755087999626994,
+      "score": -3.8000000000000007,
+      "visits": 83
+    },
+    {
+      "testcaseId": 83,
+      "processingTime": 17.514320001006126,
+      "score": -9.2,
+      "visits": 138
+    },
+    {
+      "testcaseId": 84,
+      "processingTime": 13.053934998810291,
+      "score": 7.700000000000001,
+      "visits": 133
+    },
+    {
+      "testcaseId": 85,
+      "processingTime": 15.999835999682546,
+      "score": -4.6,
+      "visits": 179
+    },
+    {
+      "testcaseId": 86,
+      "processingTime": 46.89213800057769,
+      "score": 17.2,
+      "visits": 327
+    },
+    {
+      "testcaseId": 87,
+      "processingTime": 28.838547999039292,
+      "score": -2.2,
+      "visits": 204
+    },
+    {
+      "testcaseId": 88,
+      "processingTime": 19.93631299957633,
+      "score": 22.200000000000003,
+      "visits": 145
+    },
+    {
+      "testcaseId": 89,
+      "processingTime": 26.110138000920415,
+      "score": 3,
+      "visits": 188
+    },
+    {
+      "testcaseId": 90,
+      "processingTime": 16.938400000333786,
+      "score": 3.9000000000000004,
+      "visits": 167
+    },
+    {
+      "testcaseId": 91,
+      "processingTime": 9.22749700024724,
+      "score": 10.7,
+      "visits": 115
+    },
+    {
+      "testcaseId": 92,
+      "processingTime": 42.503277000039816,
+      "score": -16.6,
+      "visits": 245
+    },
+    {
+      "testcaseId": 93,
+      "processingTime": 29.303445000201464,
+      "score": -5.6,
+      "visits": 223
+    },
+    {
+      "testcaseId": 94,
+      "processingTime": 17.053029000759125,
+      "score": -1,
+      "visits": 193
+    },
+    {
+      "testcaseId": 95,
+      "processingTime": 8.778909999877214,
+      "score": 1.8,
+      "visits": 80
+    },
+    {
+      "testcaseId": 96,
+      "processingTime": 3.7271110005676746,
+      "score": 8.200000000000001,
+      "visits": 44
+    },
+    {
+      "testcaseId": 97,
+      "processingTime": 3.5382099989801645,
+      "score": 7.8,
+      "visits": 58
+    },
+    {
+      "testcaseId": 98,
+      "processingTime": 11.750005999580026,
+      "score": -6.1,
+      "visits": 92
+    },
+    {
+      "testcaseId": 99,
+      "processingTime": 31.1385009996593,
+      "score": -1.5,
+      "visits": 169
+    }
+  ],
+  "Testing CSP 21": [
+    {
+      "testcaseId": 0,
+      "processingTime": 5.882561000064015,
+      "score": -11,
+      "visits": 83
+    },
+    {
+      "testcaseId": 1,
+      "processingTime": 42.20840599946678,
+      "score": 5.800000000000001,
+      "visits": 123
+    },
+    {
+      "testcaseId": 2,
+      "processingTime": 32.125048000365496,
+      "score": 3.8,
+      "visits": 184
+    },
+    {
+      "testcaseId": 3,
+      "processingTime": 25.712108001112938,
+      "score": -4.2,
+      "visits": 148
+    },
+    {
+      "testcaseId": 4,
+      "processingTime": 17.751721000298858,
+      "score": 11.400000000000002,
+      "visits": 169
+    },
+    {
+      "testcaseId": 5,
+      "processingTime": 53.21121500059962,
+      "score": 0,
+      "visits": 294
+    },
+    {
+      "testcaseId": 6,
+      "processingTime": 78.14003200083971,
+      "score": 11.900000000000002,
+      "visits": 292
+    },
+    {
+      "testcaseId": 7,
+      "processingTime": 33.98520699888468,
+      "score": -19,
+      "visits": 166
+    },
+    {
+      "testcaseId": 8,
+      "processingTime": 16.11629999987781,
+      "score": -0.3,
+      "visits": 134
+    },
+    {
+      "testcaseId": 9,
+      "processingTime": 16.936248999089003,
+      "score": -1.6,
+      "visits": 144
+    },
+    {
+      "testcaseId": 10,
+      "processingTime": 78.83114200085402,
+      "score": -6.5,
+      "visits": 372
+    },
+    {
+      "testcaseId": 11,
+      "processingTime": 16.95906800031662,
+      "score": 21,
+      "visits": 144
+    },
+    {
+      "testcaseId": 12,
+      "processingTime": 70.50627200119197,
+      "score": 22.8,
+      "visits": 358
+    },
+    {
+      "testcaseId": 13,
+      "processingTime": 49.55119699984789,
+      "score": 8.8,
+      "visits": 163
+    },
+    {
+      "testcaseId": 14,
+      "processingTime": 14.426320999860764,
+      "score": 7.000000000000002,
+      "visits": 154
+    },
+    {
+      "testcaseId": 15,
+      "processingTime": 78.66601400077343,
+      "score": 21.6,
+      "visits": 330
+    },
+    {
+      "testcaseId": 16,
+      "processingTime": 45.12114300020039,
+      "score": -7.9,
+      "visits": 260
+    },
+    {
+      "testcaseId": 17,
+      "processingTime": 54.08978899940848,
+      "score": 18,
+      "visits": 274
+    },
+    {
+      "testcaseId": 18,
+      "processingTime": 4.265661999583244,
+      "score": -10.8,
+      "visits": 83
+    },
+    {
+      "testcaseId": 19,
+      "processingTime": 8.08444599993527,
+      "score": 6.7,
+      "visits": 107
+    },
+    {
+      "testcaseId": 20,
+      "processingTime": 87.31688799895346,
+      "score": 0,
+      "visits": 371
+    },
+    {
+      "testcaseId": 21,
+      "processingTime": 13.944306999444962,
+      "score": -12.9,
+      "visits": 169
+    },
+    {
+      "testcaseId": 22,
+      "processingTime": 47.05421399883926,
+      "score": 14.8,
+      "visits": 147
+    },
+    {
+      "testcaseId": 23,
+      "processingTime": 20.09060600027442,
+      "score": -15.8,
+      "visits": 261
+    },
+    {
+      "testcaseId": 24,
+      "processingTime": 72.92531799897552,
+      "score": -16.700000000000003,
+      "visits": 398
+    },
+    {
+      "testcaseId": 25,
+      "processingTime": 52.54022100009024,
+      "score": -18.5,
+      "visits": 277
+    },
+    {
+      "testcaseId": 26,
+      "processingTime": 18.675258999690413,
+      "score": 16.400000000000002,
+      "visits": 198
+    },
+    {
+      "testcaseId": 27,
+      "processingTime": 30.28249599970877,
+      "score": 15.600000000000001,
+      "visits": 147
+    },
+    {
+      "testcaseId": 28,
+      "processingTime": 26.65055900067091,
+      "score": -6.5,
+      "visits": 162
+    },
+    {
+      "testcaseId": 29,
+      "processingTime": 8.952243000268936,
+      "score": 15.000000000000004,
+      "visits": 63
+    },
+    {
+      "testcaseId": 30,
+      "processingTime": 34.30288299918175,
+      "score": 16.599999999999998,
+      "visits": 237
+    },
+    {
+      "testcaseId": 31,
+      "processingTime": 55.673490000888705,
+      "score": 18.6,
+      "visits": 180
+    },
+    {
+      "testcaseId": 32,
+      "processingTime": 12.801924001425505,
+      "score": 0,
+      "visits": 117
+    },
+    {
+      "testcaseId": 33,
+      "processingTime": 31.690767999738455,
+      "score": 5.800000000000001,
+      "visits": 172
+    },
+    {
+      "testcaseId": 34,
+      "processingTime": 43.2634420003742,
+      "score": -3,
+      "visits": 244
+    },
+    {
+      "testcaseId": 35,
+      "processingTime": 65.46939099952579,
+      "score": -19.5,
+      "visits": 347
+    },
+    {
+      "testcaseId": 36,
+      "processingTime": 14.129877001047134,
+      "score": -17.700000000000003,
+      "visits": 94
+    },
+    {
+      "testcaseId": 37,
+      "processingTime": 34.200713999569416,
+      "score": 18.400000000000002,
+      "visits": 223
+    },
+    {
+      "testcaseId": 38,
+      "processingTime": 11.151218000799417,
+      "score": -8,
+      "visits": 150
+    },
+    {
+      "testcaseId": 39,
+      "processingTime": 23.115209000185132,
+      "score": -3.2,
+      "visits": 170
+    },
+    {
+      "testcaseId": 40,
+      "processingTime": 7.238231999799609,
+      "score": -0.2999999999999998,
+      "visits": 107
+    },
+    {
+      "testcaseId": 41,
+      "processingTime": 18.63862300105393,
+      "score": 11.9,
+      "visits": 139
+    },
+    {
+      "testcaseId": 42,
+      "processingTime": 11.158917000517249,
+      "score": 0,
+      "visits": 83
+    },
+    {
+      "testcaseId": 43,
+      "processingTime": 19.574434000998735,
+      "score": -4.6,
+      "visits": 170
+    },
+    {
+      "testcaseId": 44,
+      "processingTime": 7.161921000108123,
+      "score": 9.600000000000001,
+      "visits": 72
+    },
+    {
+      "testcaseId": 45,
+      "processingTime": 65.40789999999106,
+      "score": -5.3,
+      "visits": 171
+    },
+    {
+      "testcaseId": 46,
+      "processingTime": 44.600251000374556,
+      "score": -21.5,
+      "visits": 241
+    },
+    {
+      "testcaseId": 47,
+      "processingTime": 8.271838998422027,
+      "score": 10.4,
+      "visits": 82
+    },
+    {
+      "testcaseId": 48,
+      "processingTime": 35.30588899925351,
+      "score": -22.1,
+      "visits": 295
+    },
+    {
+      "testcaseId": 49,
+      "processingTime": 39.873476000502706,
+      "score": -9.2,
+      "visits": 263
+    },
+    {
+      "testcaseId": 50,
+      "processingTime": 40.22496600076556,
+      "score": -9,
+      "visits": 284
+    },
+    {
+      "testcaseId": 51,
+      "processingTime": 87.26581699959934,
+      "score": 14.200000000000003,
+      "visits": 304
+    },
+    {
+      "testcaseId": 52,
+      "processingTime": 63.98185699991882,
+      "score": 5.1,
+      "visits": 418
+    },
+    {
+      "testcaseId": 53,
+      "processingTime": 10.936959998682141,
+      "score": -13.4,
+      "visits": 129
+    },
+    {
+      "testcaseId": 54,
+      "processingTime": 16.26934900134802,
+      "score": -17.400000000000002,
+      "visits": 121
+    },
+    {
+      "testcaseId": 55,
+      "processingTime": 4.924274999648333,
+      "score": 14,
+      "visits": 85
+    },
+    {
+      "testcaseId": 56,
+      "processingTime": 71.73441500030458,
+      "score": -11.3,
+      "visits": 426
+    },
+    {
+      "testcaseId": 57,
+      "processingTime": 42.80092000029981,
+      "score": -3,
+      "visits": 266
+    },
+    {
+      "testcaseId": 58,
+      "processingTime": 6.779325000941753,
+      "score": 11.600000000000003,
+      "visits": 62
+    },
+    {
+      "testcaseId": 59,
+      "processingTime": 19.283087000250816,
+      "score": 20.200000000000003,
+      "visits": 195
+    },
+    {
+      "testcaseId": 60,
+      "processingTime": 13.074919000267982,
+      "score": 11.200000000000001,
+      "visits": 237
+    },
+    {
+      "testcaseId": 61,
+      "processingTime": 44.80195600166917,
+      "score": 16,
+      "visits": 212
+    },
+    {
+      "testcaseId": 62,
+      "processingTime": 66.17337200045586,
+      "score": 13.600000000000001,
+      "visits": 222
+    },
+    {
+      "testcaseId": 63,
+      "processingTime": 3.7315500006079674,
+      "score": -6.2,
+      "visits": 40
+    },
+    {
+      "testcaseId": 64,
+      "processingTime": 8.852318000048399,
+      "score": 0,
+      "visits": 83
+    },
+    {
+      "testcaseId": 65,
+      "processingTime": 54.560128999873996,
+      "score": -8,
+      "visits": 248
+    },
+    {
+      "testcaseId": 66,
+      "processingTime": 41.14527199976146,
+      "score": -16.3,
+      "visits": 268
+    },
+    {
+      "testcaseId": 67,
+      "processingTime": 25.640639999881387,
+      "score": -19.1,
+      "visits": 168
+    },
+    {
+      "testcaseId": 68,
+      "processingTime": 49.08828799985349,
+      "score": -4,
+      "visits": 272
+    },
+    {
+      "testcaseId": 69,
+      "processingTime": 7.180588999763131,
+      "score": -1.5,
+      "visits": 65
+    },
+    {
+      "testcaseId": 70,
+      "processingTime": 20.893276000395417,
+      "score": -17.800000000000004,
+      "visits": 168
+    },
+    {
+      "testcaseId": 71,
+      "processingTime": 7.554710000753403,
+      "score": 0,
+      "visits": 87
+    },
+    {
+      "testcaseId": 72,
+      "processingTime": 20.129143999889493,
+      "score": 12.400000000000002,
+      "visits": 177
+    },
+    {
+      "testcaseId": 73,
+      "processingTime": 76.86259300075471,
+      "score": -1.2,
+      "visits": 353
+    },
+    {
+      "testcaseId": 74,
+      "processingTime": 20.32332699932158,
+      "score": -25.5,
+      "visits": 133
+    },
+    {
+      "testcaseId": 75,
+      "processingTime": 74.78961200080812,
+      "score": 3,
+      "visits": 381
+    },
+    {
+      "testcaseId": 76,
+      "processingTime": 30.69039100036025,
+      "score": -17.3,
+      "visits": 226
+    },
+    {
+      "testcaseId": 77,
+      "processingTime": 32.75778300128877,
+      "score": 9.8,
+      "visits": 246
+    },
+    {
+      "testcaseId": 78,
+      "processingTime": 69.52219100110233,
+      "score": 20,
+      "visits": 329
+    },
+    {
+      "testcaseId": 79,
+      "processingTime": 44.06897000037134,
+      "score": 6,
+      "visits": 243
+    },
+    {
+      "testcaseId": 80,
+      "processingTime": 36.55201599933207,
+      "score": -3.6,
+      "visits": 171
+    },
+    {
+      "testcaseId": 81,
+      "processingTime": 17.81483200006187,
+      "score": 9.600000000000001,
+      "visits": 192
+    },
+    {
+      "testcaseId": 82,
+      "processingTime": 53.519782999530435,
+      "score": -20.900000000000002,
+      "visits": 376
+    },
+    {
+      "testcaseId": 83,
+      "processingTime": 7.763170000165701,
+      "score": -9.2,
+      "visits": 63
+    },
+    {
+      "testcaseId": 84,
+      "processingTime": 12.465712999925017,
+      "score": 15.600000000000001,
+      "visits": 78
+    },
+    {
+      "testcaseId": 85,
+      "processingTime": 17.22896899841726,
+      "score": 11.1,
+      "visits": 120
+    },
+    {
+      "testcaseId": 86,
+      "processingTime": 9.335900999605656,
+      "score": 9.1,
+      "visits": 107
+    },
+    {
+      "testcaseId": 87,
+      "processingTime": 49.73987700045109,
+      "score": -21,
+      "visits": 252
+    },
+    {
+      "testcaseId": 88,
+      "processingTime": 8.894266000017524,
+      "score": 4.700000000000001,
+      "visits": 85
+    },
+    {
+      "testcaseId": 89,
+      "processingTime": 48.88110399991274,
+      "score": 15,
+      "visits": 227
+    },
+    {
+      "testcaseId": 90,
+      "processingTime": 36.040416000410914,
+      "score": -5.5,
+      "visits": 294
+    },
+    {
+      "testcaseId": 91,
+      "processingTime": 2.9564980007708073,
+      "score": -1.2000000000000002,
+      "visits": 43
+    },
+    {
+      "testcaseId": 92,
+      "processingTime": 37.857672000303864,
+      "score": -0.8999999999999999,
+      "visits": 266
+    },
+    {
+      "testcaseId": 93,
+      "processingTime": 72.34213600121439,
+      "score": -21.3,
+      "visits": 394
+    },
+    {
+      "testcaseId": 94,
+      "processingTime": 23.24002500064671,
+      "score": 19.1,
+      "visits": 149
+    },
+    {
+      "testcaseId": 95,
+      "processingTime": 38.501962998881936,
+      "score": 12.3,
+      "visits": 256
+    },
+    {
+      "testcaseId": 96,
+      "processingTime": 24.383475000038743,
+      "score": -5.9,
+      "visits": 171
+    },
+    {
+      "testcaseId": 97,
+      "processingTime": 9.067257000133395,
+      "score": 9.600000000000001,
+      "visits": 102
+    },
+    {
+      "testcaseId": 98,
+      "processingTime": 68.58848300017416,
+      "score": 18,
+      "visits": 216
+    },
+    {
+      "testcaseId": 99,
+      "processingTime": 25.307749999687076,
+      "score": -5,
+      "visits": 184
+    }
+  ],
+  "Testing Bruteforce 18": [
+    {
+      "testcaseId": 0,
+      "processingTime": 1753.845341,
+      "score": 18,
+      "visits": 113006
+    },
+    {
+      "testcaseId": 1,
+      "processingTime": 267.838219,
+      "score": 9.9,
+      "visits": 249
+    },
+    {
+      "testcaseId": 2,
+      "processingTime": 5.147453,
+      "score": 9.5,
+      "visits": 824
+    },
+    {
+      "testcaseId": 3,
+      "processingTime": 1886.4938140000002,
+      "score": 17.1,
+      "visits": 289586
+    },
+    {
+      "testcaseId": 4,
+      "processingTime": 225.69278400000002,
+      "score": -4.700000000000001,
+      "visits": 6911
+    },
+    {
+      "testcaseId": 5,
+      "processingTime": 2.53904,
+      "score": 7.9,
+      "visits": 623
+    },
+    {
+      "testcaseId": 6,
+      "processingTime": 79.485829,
+      "score": 0,
+      "visits": 13471
+    },
+    {
+      "testcaseId": 7,
+      "processingTime": 3.242956,
+      "score": 7.2,
+      "visits": 785
+    },
+    {
+      "testcaseId": 8,
+      "processingTime": 96.147279,
+      "score": 5.4,
+      "visits": 21907
+    },
+    {
+      "testcaseId": 9,
+      "processingTime": 12.2317,
+      "score": -0.3,
+      "visits": 1460
+    },
+    {
+      "testcaseId": 10,
+      "processingTime": 163.582319,
+      "score": -3.6,
+      "visits": 31575
+    },
+    {
+      "testcaseId": 11,
+      "processingTime": 42.876694,
+      "score": 14.7,
+      "visits": 9639
+    },
+    {
+      "testcaseId": 12,
+      "processingTime": 51.67623,
+      "score": -7,
+      "visits": 13781
+    },
+    {
+      "testcaseId": 13,
+      "processingTime": 25.80202,
+      "score": -11.600000000000001,
+      "visits": 4517
+    },
+    {
+      "testcaseId": 14,
+      "processingTime": 189.818561,
+      "score": -7.3,
+      "visits": 34999
+    },
+    {
+      "testcaseId": 15,
+      "processingTime": 675.515911,
+      "score": -4,
+      "visits": 134476
+    },
+    {
+      "testcaseId": 16,
+      "processingTime": 128.863419,
+      "score": -14.200000000000001,
+      "visits": 32335
+    },
+    {
+      "testcaseId": 17,
+      "processingTime": 1222.0073730000001,
+      "score": 15.500000000000002,
+      "visits": 196141
+    },
+    {
+      "testcaseId": 18,
+      "processingTime": 17.347709,
+      "score": 18.9,
+      "visits": 3107
+    },
+    {
+      "testcaseId": 19,
+      "processingTime": 597.270425,
+      "score": 7.600000000000002,
+      "visits": 130591
+    },
+    {
+      "testcaseId": 20,
+      "processingTime": 4.466636,
+      "score": 10.200000000000001,
+      "visits": 794
+    },
+    {
+      "testcaseId": 21,
+      "processingTime": 1.5422960000000001,
+      "score": 14.100000000000001,
+      "visits": 377
+    },
+    {
+      "testcaseId": 22,
+      "processingTime": 55.440268,
+      "score": -12,
+      "visits": 11185
+    },
+    {
+      "testcaseId": 23,
+      "processingTime": 0.521984,
+      "score": -7.5,
+      "visits": 98
+    },
+    {
+      "testcaseId": 24,
+      "processingTime": 319.052895,
+      "score": 8,
+      "visits": 56210
+    },
+    {
+      "testcaseId": 25,
+      "processingTime": 21.636542000000002,
+      "score": -1.2,
+      "visits": 6170
+    },
+    {
+      "testcaseId": 26,
+      "processingTime": 161.920503,
+      "score": 15.600000000000001,
+      "visits": 28331
+    },
+    {
+      "testcaseId": 27,
+      "processingTime": 53.693378,
+      "score": 10.700000000000003,
+      "visits": 11669
+    },
+    {
+      "testcaseId": 28,
+      "processingTime": 8.821135,
+      "score": -8.4,
+      "visits": 1380
+    },
+    {
+      "testcaseId": 29,
+      "processingTime": 42.053608,
+      "score": -20.9,
+      "visits": 9134
+    },
+    {
+      "testcaseId": 30,
+      "processingTime": 0.759191,
+      "score": 5.5,
+      "visits": 134
+    },
+    {
+      "testcaseId": 31,
+      "processingTime": 1233.075639,
+      "score": -13.5,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 32,
+      "processingTime": 9.391663999999999,
+      "score": -0.7,
+      "visits": 1180
+    },
+    {
+      "testcaseId": 33,
+      "processingTime": 29.367161,
+      "score": 10.200000000000001,
+      "visits": 6785
+    },
+    {
+      "testcaseId": 34,
+      "processingTime": 1687.7343520000002,
+      "score": 1.1,
+      "visits": 269618
+    },
+    {
+      "testcaseId": 35,
+      "processingTime": 15.784540999999999,
+      "score": -17.3,
+      "visits": 2924
+    },
+    {
+      "testcaseId": 36,
+      "processingTime": 1607.6436999999999,
+      "score": 23.400000000000002,
+      "visits": 301529
+    },
+    {
+      "testcaseId": 37,
+      "processingTime": 22.878897,
+      "score": 4.699999999999999,
+      "visits": 4919
+    },
+    {
+      "testcaseId": 38,
+      "processingTime": 486.436198,
+      "score": 17.6,
+      "visits": 98159
+    },
+    {
+      "testcaseId": 39,
+      "processingTime": 39.864667,
+      "score": -4.3,
+      "visits": 9247
+    },
+    {
+      "testcaseId": 40,
+      "processingTime": 17.856903,
+      "score": 10.4,
+      "visits": 4839
+    },
+    {
+      "testcaseId": 41,
+      "processingTime": 87.306144,
+      "score": 11.200000000000001,
+      "visits": 18057
+    },
+    {
+      "testcaseId": 42,
+      "processingTime": 132.197954,
+      "score": 12.200000000000001,
+      "visits": 25959
+    },
+    {
+      "testcaseId": 43,
+      "processingTime": 270.731123,
+      "score": 12.800000000000002,
+      "visits": 62544
+    },
+    {
+      "testcaseId": 44,
+      "processingTime": 40.047858999999995,
+      "score": -5.2,
+      "visits": 9247
+    },
+    {
+      "testcaseId": 45,
+      "processingTime": 2.10519,
+      "score": -8.8,
+      "visits": 674
+    },
+    {
+      "testcaseId": 46,
+      "processingTime": 13.610674999999999,
+      "score": 13.600000000000001,
+      "visits": 1260
+    },
+    {
+      "testcaseId": 47,
+      "processingTime": 5.213348,
+      "score": 19.6,
+      "visits": 862
+    },
+    {
+      "testcaseId": 48,
+      "processingTime": 255.199725,
+      "score": 19.2,
+      "visits": 43910
+    },
+    {
+      "testcaseId": 49,
+      "processingTime": 63.747977,
+      "score": 14.200000000000001,
+      "visits": 6773
+    },
+    {
+      "testcaseId": 50,
+      "processingTime": 1758.997564,
+      "score": 16.7,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 51,
+      "processingTime": 1671.601551,
+      "score": 18.7,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 52,
+      "processingTime": 46.648677,
+      "score": 12.500000000000002,
+      "visits": 12139
+    },
+    {
+      "testcaseId": 53,
+      "processingTime": 5.531918,
+      "score": -13.4,
+      "visits": 913
+    },
+    {
+      "testcaseId": 54,
+      "processingTime": 19.896849,
+      "score": 12.7,
+      "visits": 1180
+    },
+    {
+      "testcaseId": 55,
+      "processingTime": 63.174899,
+      "score": 11.6,
+      "visits": 16769
+    },
+    {
+      "testcaseId": 56,
+      "processingTime": 11.499272,
+      "score": -3.3,
+      "visits": 4114
+    },
+    {
+      "testcaseId": 57,
+      "processingTime": 6.036284,
+      "score": -28,
+      "visits": 1754
+    },
+    {
+      "testcaseId": 58,
+      "processingTime": 200.904961,
+      "score": 4.9,
+      "visits": 34999
+    },
+    {
+      "testcaseId": 59,
+      "processingTime": 43.469436,
+      "score": 10.200000000000001,
+      "visits": 5950
+    },
+    {
+      "testcaseId": 60,
+      "processingTime": 1611.065745,
+      "score": 19.1,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 61,
+      "processingTime": 2.2527150000000002,
+      "score": 10.600000000000001,
+      "visits": 249
+    },
+    {
+      "testcaseId": 62,
+      "processingTime": 1692.879128,
+      "score": 18.7,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 63,
+      "processingTime": 7.366782,
+      "score": -1.2000000000000006,
+      "visits": 1101
+    },
+    {
+      "testcaseId": 64,
+      "processingTime": 64.78848199999999,
+      "score": -16.2,
+      "visits": 13681
+    },
+    {
+      "testcaseId": 65,
+      "processingTime": 590.796735,
+      "score": 0,
+      "visits": 116984
+    },
+    {
+      "testcaseId": 66,
+      "processingTime": 4.251971999999999,
+      "score": 10.600000000000001,
+      "visits": 1214
+    },
+    {
+      "testcaseId": 67,
+      "processingTime": 1620.882819,
+      "score": 25.1,
+      "visits": 237906
+    },
+    {
+      "testcaseId": 68,
+      "processingTime": 431.391607,
+      "score": -7.9,
+      "visits": 75916
+    },
+    {
+      "testcaseId": 69,
+      "processingTime": 899.800936,
+      "score": 3,
+      "visits": 200381
+    },
+    {
+      "testcaseId": 70,
+      "processingTime": 115.867206,
+      "score": 1.2000000000000002,
+      "visits": 33407
+    },
+    {
+      "testcaseId": 71,
+      "processingTime": 22.63727,
+      "score": 6.700000000000001,
+      "visits": 6799
+    },
+    {
+      "testcaseId": 72,
+      "processingTime": 7.588683,
+      "score": 4.5,
+      "visits": 1064
+    },
+    {
+      "testcaseId": 73,
+      "processingTime": 717.814408,
+      "score": 21.8,
+      "visits": 127062
+    },
+    {
+      "testcaseId": 74,
+      "processingTime": 3.542487,
+      "score": 16.2,
+      "visits": 1088
+    },
+    {
+      "testcaseId": 75,
+      "processingTime": 5.647188,
+      "score": 8,
+      "visits": 998
+    },
+    {
+      "testcaseId": 76,
+      "processingTime": 7.128595,
+      "score": 12.600000000000001,
+      "visits": 1529
+    },
+    {
+      "testcaseId": 77,
+      "processingTime": 100.670703,
+      "score": -0.3,
+      "visits": 21907
+    },
+    {
+      "testcaseId": 78,
+      "processingTime": 368.18890500000003,
+      "score": 12.899999999999999,
+      "visits": 85757
+    },
+    {
+      "testcaseId": 79,
+      "processingTime": 4.8066640000000005,
+      "score": -1.2,
+      "visits": 1529
+    },
+    {
+      "testcaseId": 80,
+      "processingTime": 108.69219600000001,
+      "score": 11.299999999999999,
+      "visits": 22285
+    },
+    {
+      "testcaseId": 81,
+      "processingTime": 199.06305899999998,
+      "score": 15.3,
+      "visits": 34999
+    },
+    {
+      "testcaseId": 82,
+      "processingTime": 6.845351,
+      "score": 2.1999999999999993,
+      "visits": 1004
+    },
+    {
+      "testcaseId": 83,
+      "processingTime": 18.156206,
+      "score": -8.8,
+      "visits": 5675
+    },
+    {
+      "testcaseId": 84,
+      "processingTime": 5.658406,
+      "score": 9.400000000000002,
+      "visits": 1784
+    },
+    {
+      "testcaseId": 85,
+      "processingTime": 220.892339,
+      "score": -4.6,
+      "visits": 43910
+    },
+    {
+      "testcaseId": 86,
+      "processingTime": 1161.530974,
+      "score": 17.2,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 87,
+      "processingTime": 449.95134199999995,
+      "score": -1.9,
+      "visits": 76993
+    },
+    {
+      "testcaseId": 88,
+      "processingTime": 52.234765,
+      "score": 22.200000000000003,
+      "visits": 11979
+    },
+    {
+      "testcaseId": 89,
+      "processingTime": 160.130617,
+      "score": 3,
+      "visits": 46330
+    },
+    {
+      "testcaseId": 90,
+      "processingTime": 170.277257,
+      "score": 10.700000000000001,
+      "visits": 30128
+    },
+    {
+      "testcaseId": 91,
+      "processingTime": 18.287306,
+      "score": 10.7,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 92,
+      "processingTime": 348.44632199999995,
+      "score": -16.6,
+      "visits": 91332
+    },
+    {
+      "testcaseId": 93,
+      "processingTime": 161.002068,
+      "score": -5.2,
+      "visits": 40599
+    },
+    {
+      "testcaseId": 94,
+      "processingTime": 61.595676000000005,
+      "score": 0,
+      "visits": 8249
+    },
+    {
+      "testcaseId": 95,
+      "processingTime": 3.792503,
+      "score": 2.1,
+      "visits": 929
+    },
+    {
+      "testcaseId": 96,
+      "processingTime": 0.653063,
+      "score": 8.200000000000001,
+      "visits": 143
+    },
+    {
+      "testcaseId": 97,
+      "processingTime": 1.2893620000000001,
+      "score": 7.8,
+      "visits": 191
+    },
+    {
+      "testcaseId": 98,
+      "processingTime": 6.4521489999999995,
+      "score": -6.1,
+      "visits": 2012
+    },
+    {
+      "testcaseId": 99,
+      "processingTime": 152.814063,
+      "score": -1.5,
+      "visits": 30234
+    }
+  ],
+  "Testing Bruteforce 21": [
+    {
+      "testcaseId": 0,
+      "processingTime": 16.336987,
+      "score": -9,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 1,
+      "processingTime": 17.377803,
+      "score": 6.100000000000001,
+      "visits": 2045
+    },
+    {
+      "testcaseId": 2,
+      "processingTime": 125.35903800000001,
+      "score": 4.4,
+      "visits": 28097
+    },
+    {
+      "testcaseId": 3,
+      "processingTime": 39.944726,
+      "score": -4.2,
+      "visits": 10559
+    },
+    {
+      "testcaseId": 4,
+      "processingTime": 138.919716,
+      "score": 12,
+      "visits": 24455
+    },
+    {
+      "testcaseId": 5,
+      "processingTime": 1397.1675930000001,
+      "score": 0,
+      "visits": 266329
+    },
+    {
+      "testcaseId": 6,
+      "processingTime": 818.537916,
+      "score": 13.600000000000003,
+      "visits": 150441
+    },
+    {
+      "testcaseId": 7,
+      "processingTime": 15.841444999999998,
+      "score": -18.800000000000004,
+      "visits": 4691
+    },
+    {
+      "testcaseId": 8,
+      "processingTime": 16.064449,
+      "score": 0,
+      "visits": 1260
+    },
+    {
+      "testcaseId": 9,
+      "processingTime": 25.016700999999998,
+      "score": -0.6,
+      "visits": 5211
+    },
+    {
+      "testcaseId": 10,
+      "processingTime": 6399.482055,
+      "score": 4,
+      "visits": 1224018
+    },
+    {
+      "testcaseId": 11,
+      "processingTime": 22.041639,
+      "score": 21,
+      "visits": 6089
+    },
+    {
+      "testcaseId": 12,
+      "processingTime": 5683.782953999999,
+      "score": 22.900000000000002,
+      "visits": 1058190
+    },
+    {
+      "testcaseId": 13,
+      "processingTime": 90.60919000000001,
+      "score": 8.8,
+      "visits": 26699
+    },
+    {
+      "testcaseId": 14,
+      "processingTime": 5.880021,
+      "score": 7.000000000000001,
+      "visits": 1781
+    },
+    {
+      "testcaseId": 15,
+      "processingTime": 5355.054894,
+      "score": 21.8,
+      "visits": 1036246
+    },
+    {
+      "testcaseId": 16,
+      "processingTime": 1091.6008299999999,
+      "score": -1.6,
+      "visits": 350419
+    },
+    {
+      "testcaseId": 17,
+      "processingTime": 1613.034811,
+      "score": 18,
+      "visits": 348587
+    },
+    {
+      "testcaseId": 18,
+      "processingTime": 2.325673,
+      "score": -8.700000000000001,
+      "visits": 249
+    },
+    {
+      "testcaseId": 19,
+      "processingTime": 3.270536,
+      "score": 6.7,
+      "visits": 779
+    },
+    {
+      "testcaseId": 20,
+      "processingTime": 4890.553398999999,
+      "score": 0.3,
+      "visits": 1011977
+    },
+    {
+      "testcaseId": 21,
+      "processingTime": 82.331812,
+      "score": -12.3,
+      "visits": 8926
+    },
+    {
+      "testcaseId": 22,
+      "processingTime": 42.339077,
+      "score": 14.900000000000002,
+      "visits": 11159
+    },
+    {
+      "testcaseId": 23,
+      "processingTime": 201.07602899999998,
+      "score": -15,
+      "visits": 49317
+    },
+    {
+      "testcaseId": 24,
+      "processingTime": 3268.040837,
+      "score": -15.3,
+      "visits": 671468
+    },
+    {
+      "testcaseId": 25,
+      "processingTime": 2317.354097,
+      "score": -13.6,
+      "visits": 506811
+    },
+    {
+      "testcaseId": 26,
+      "processingTime": 82.44480399999999,
+      "score": 17.8,
+      "visits": 17238
+    },
+    {
+      "testcaseId": 27,
+      "processingTime": 94.63875300000001,
+      "score": 15.600000000000001,
+      "visits": 19805
+    },
+    {
+      "testcaseId": 28,
+      "processingTime": 74.058279,
+      "score": -6.5,
+      "visits": 20879
+    },
+    {
+      "testcaseId": 29,
+      "processingTime": 1.246197,
+      "score": 15.000000000000004,
+      "visits": 347
+    },
+    {
+      "testcaseId": 30,
+      "processingTime": 378.811878,
+      "score": 18.500000000000004,
+      "visits": 86841
+    },
+    {
+      "testcaseId": 31,
+      "processingTime": 132.681027,
+      "score": 18.6,
+      "visits": 38899
+    },
+    {
+      "testcaseId": 32,
+      "processingTime": 14.882747,
+      "score": 0,
+      "visits": 2518
+    },
+    {
+      "testcaseId": 33,
+      "processingTime": 38.898984,
+      "score": 9.100000000000001,
+      "visits": 9419
+    },
+    {
+      "testcaseId": 34,
+      "processingTime": 3266.77897,
+      "score": 3,
+      "visits": 797360
+    },
+    {
+      "testcaseId": 35,
+      "processingTime": 1176.534442,
+      "score": -19,
+      "visits": 201384
+    },
+    {
+      "testcaseId": 36,
+      "processingTime": 12.342654,
+      "score": -17.700000000000003,
+      "visits": 3653
+    },
+    {
+      "testcaseId": 37,
+      "processingTime": 2045.9169519999998,
+      "score": 18.400000000000002,
+      "visits": 492818
+    },
+    {
+      "testcaseId": 38,
+      "processingTime": 9.73455,
+      "score": -8,
+      "visits": 1815
+    },
+    {
+      "testcaseId": 39,
+      "processingTime": 15.040728,
+      "score": -2.2,
+      "visits": 5498
+    },
+    {
+      "testcaseId": 40,
+      "processingTime": 12.799035,
+      "score": 0.10000000000000009,
+      "visits": 2076
+    },
+    {
+      "testcaseId": 41,
+      "processingTime": 55.918583,
+      "score": 11.9,
+      "visits": 5350
+    },
+    {
+      "testcaseId": 42,
+      "processingTime": 7.562076,
+      "score": 0,
+      "visits": 1380
+    },
+    {
+      "testcaseId": 43,
+      "processingTime": 16.408942,
+      "score": -3.3,
+      "visits": 3667
+    },
+    {
+      "testcaseId": 44,
+      "processingTime": 1.545451,
+      "score": 10.4,
+      "visits": 309
+    },
+    {
+      "testcaseId": 45,
+      "processingTime": 116.646847,
+      "score": -4.9,
+      "visits": 30737
+    },
+    {
+      "testcaseId": 46,
+      "processingTime": 3476.1322419999997,
+      "score": -20.5,
+      "visits": 723125
+    },
+    {
+      "testcaseId": 47,
+      "processingTime": 5.939602000000001,
+      "score": 10.7,
+      "visits": 984
+    },
+    {
+      "testcaseId": 48,
+      "processingTime": 1441.0808,
+      "score": -15.3,
+      "visits": 352091
+    },
+    {
+      "testcaseId": 49,
+      "processingTime": 3166.853236,
+      "score": -8.5,
+      "visits": 723125
+    },
+    {
+      "testcaseId": 50,
+      "processingTime": 3003.2482969999996,
+      "score": -1.3,
+      "visits": 675935
+    },
+    {
+      "testcaseId": 51,
+      "processingTime": 2119.440816,
+      "score": 25.900000000000002,
+      "visits": 457991
+    },
+    {
+      "testcaseId": 52,
+      "processingTime": 1771.812972,
+      "score": 6,
+      "visits": 454670
+    },
+    {
+      "testcaseId": 53,
+      "processingTime": 12.011192000000001,
+      "score": -13.1,
+      "visits": 1180
+    },
+    {
+      "testcaseId": 54,
+      "processingTime": 26.104013,
+      "score": -17.1,
+      "visits": 7229
+    },
+    {
+      "testcaseId": 55,
+      "processingTime": 8.468152,
+      "score": 14,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 56,
+      "processingTime": 6384.687204,
+      "score": -4.3,
+      "visits": 1232495
+    },
+    {
+      "testcaseId": 57,
+      "processingTime": 3738.48526,
+      "score": -3,
+      "visits": 886535
+    },
+    {
+      "testcaseId": 58,
+      "processingTime": 1.9775690000000001,
+      "score": 11.600000000000001,
+      "visits": 353
+    },
+    {
+      "testcaseId": 59,
+      "processingTime": 66.89375799999999,
+      "score": 21.900000000000002,
+      "visits": 15251
+    },
+    {
+      "testcaseId": 60,
+      "processingTime": 156.070081,
+      "score": 14.600000000000001,
+      "visits": 26035
+    },
+    {
+      "testcaseId": 61,
+      "processingTime": 200.823566,
+      "score": 24.3,
+      "visits": 38771
+    },
+    {
+      "testcaseId": 62,
+      "processingTime": 1166.5915069999999,
+      "score": 14.500000000000002,
+      "visits": 297720
+    },
+    {
+      "testcaseId": 63,
+      "processingTime": 0.5147179999999999,
+      "score": -6.2,
+      "visits": 62
+    },
+    {
+      "testcaseId": 64,
+      "processingTime": 1.948482,
+      "score": 0,
+      "visits": 503
+    },
+    {
+      "testcaseId": 65,
+      "processingTime": 4053.6873499999997,
+      "score": -7,
+      "visits": 984830
+    },
+    {
+      "testcaseId": 66,
+      "processingTime": 376.781989,
+      "score": -16.3,
+      "visits": 104905
+    },
+    {
+      "testcaseId": 67,
+      "processingTime": 152.13075600000002,
+      "score": -13.5,
+      "visits": 30363
+    },
+    {
+      "testcaseId": 68,
+      "processingTime": 1944.4253010000002,
+      "score": -4,
+      "visits": 526187
+    },
+    {
+      "testcaseId": 69,
+      "processingTime": 1.075246,
+      "score": -1.5,
+      "visits": 329
+    },
+    {
+      "testcaseId": 70,
+      "processingTime": 13.446798,
+      "score": -16,
+      "visits": 2781
+    },
+    {
+      "testcaseId": 71,
+      "processingTime": 6.6003099999999995,
+      "score": 0,
+      "visits": 1264
+    },
+    {
+      "testcaseId": 72,
+      "processingTime": 353.589916,
+      "score": 13.8,
+      "visits": 87498
+    },
+    {
+      "testcaseId": 73,
+      "processingTime": 6819.781650999999,
+      "score": 0,
+      "visits": 1349706
+    },
+    {
+      "testcaseId": 74,
+      "processingTime": 22.957239,
+      "score": -20.1,
+      "visits": 8864
+    },
+    {
+      "testcaseId": 75,
+      "processingTime": 5864.122383,
+      "score": 3,
+      "visits": 1243321
+    },
+    {
+      "testcaseId": 76,
+      "processingTime": 143.927638,
+      "score": -17.3,
+      "visits": 35661
+    },
+    {
+      "testcaseId": 77,
+      "processingTime": 768.551884,
+      "score": 11.200000000000003,
+      "visits": 218882
+    },
+    {
+      "testcaseId": 78,
+      "processingTime": 4583.053669,
+      "score": 20.900000000000002,
+      "visits": 905762
+    },
+    {
+      "testcaseId": 79,
+      "processingTime": 2104.012564,
+      "score": 6,
+      "visits": 559766
+    },
+    {
+      "testcaseId": 80,
+      "processingTime": 43.96472,
+      "score": -3.6,
+      "visits": 11507
+    },
+    {
+      "testcaseId": 81,
+      "processingTime": 51.504288,
+      "score": 9,
+      "visits": 17321
+    },
+    {
+      "testcaseId": 82,
+      "processingTime": 2156.982608,
+      "score": -20.1,
+      "visits": 488038
+    },
+    {
+      "testcaseId": 83,
+      "processingTime": 2.23609,
+      "score": -9.2,
+      "visits": 755
+    },
+    {
+      "testcaseId": 84,
+      "processingTime": 3.188619,
+      "score": 15.600000000000001,
+      "visits": 1043
+    },
+    {
+      "testcaseId": 85,
+      "processingTime": 8.299129,
+      "score": 11.600000000000001,
+      "visits": 2135
+    },
+    {
+      "testcaseId": 86,
+      "processingTime": 12.722997,
+      "score": 9.3,
+      "visits": 1256
+    },
+    {
+      "testcaseId": 87,
+      "processingTime": 1921.7304550000001,
+      "score": -20.8,
+      "visits": 473609
+    },
+    {
+      "testcaseId": 88,
+      "processingTime": 7.266191,
+      "score": 4.700000000000001,
+      "visits": 1150
+    },
+    {
+      "testcaseId": 89,
+      "processingTime": 775.327275,
+      "score": 15.000000000000002,
+      "visits": 253556
+    },
+    {
+      "testcaseId": 90,
+      "processingTime": 3620.753516,
+      "score": -4.9,
+      "visits": 852757
+    },
+    {
+      "testcaseId": 91,
+      "processingTime": 0.34172,
+      "score": -1.2000000000000002,
+      "visits": 43
+    },
+    {
+      "testcaseId": 92,
+      "processingTime": 854.728881,
+      "score": -0.3,
+      "visits": 246431
+    },
+    {
+      "testcaseId": 93,
+      "processingTime": 1319.215738,
+      "score": -20.8,
+      "visits": 337260
+    },
+    {
+      "testcaseId": 94,
+      "processingTime": 21.806243,
+      "score": 19.1,
+      "visits": 7013
+    },
+    {
+      "testcaseId": 95,
+      "processingTime": 2497.044094,
+      "score": 12.299999999999999,
+      "visits": 569661
+    },
+    {
+      "testcaseId": 96,
+      "processingTime": 132.318482,
+      "score": 0.5,
+      "visits": 29126
+    },
+    {
+      "testcaseId": 97,
+      "processingTime": 13.49524,
+      "score": 9.600000000000001,
+      "visits": 1997
+    },
+    {
+      "testcaseId": 98,
+      "processingTime": 2112.8877359999997,
+      "score": 18.400000000000002,
+      "visits": 527103
+    },
+    {
+      "testcaseId": 99,
+      "processingTime": 40.822944,
+      "score": -5,
+      "visits": 13469
+    }
+  ]
+}
