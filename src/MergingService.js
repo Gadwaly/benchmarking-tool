@@ -6,24 +6,26 @@ export function MergeData(benchmarks, benchmarksNames) {
       const scores = benchmarks[benchmark][res];
 
       if (!testcaseIds.has(scores.testcaseId)) {
-        mergedBenchmarks.push({
+        let mergedBenchmark = {
           testcaseId: scores.testcaseId,
-          [`${benchmark}_score`]: benchmarks[benchmark][res]["score"],
-          [`${benchmark}_visits`]: benchmarks[benchmark][res]["visits"],
-          [`${benchmark}_processingTime`]:
-            benchmarks[benchmark][res]["processingTime"],
-        });
+        };
 
+        Object.keys(benchmarks[benchmark][res]).map(
+          (key) =>
+            (mergedBenchmark[`${benchmark}#${key}`] =
+              benchmarks[benchmark][res][key])
+        );
+
+        mergedBenchmarks.push(mergedBenchmark);
         testcaseIds.add(scores.testcaseId);
       } else {
         mergedBenchmarks = mergedBenchmarks.map((testcase) => {
           if (testcase.testcaseId === scores.testcaseId) {
-            testcase[`${benchmark}_score`] =
-              benchmarks[benchmark][res]["score"];
-            testcase[`${benchmark}_visits`] =
-              benchmarks[benchmark][res]["visits"];
-            testcase[`${benchmark}_processingTime`] =
-              benchmarks[benchmark][res]["processingTime"];
+            Object.keys(benchmarks[benchmark][res]).map(
+              (key) =>
+                (testcase[`${benchmark}#${key}`] =
+                  benchmarks[benchmark][res][key])
+            );
           }
           return testcase;
         });
