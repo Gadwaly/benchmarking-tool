@@ -1,5 +1,4 @@
 import React from "react";
-import Period from "../Period";
 import EmptyCells from "../EmptyCells";
 import "../Schedule.css";
 

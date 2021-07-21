@@ -2,7 +2,7 @@ import { Day } from "./Period";
 import ScheduleRow from "./SceduleRow";
 
 const Schedule = ({ schedule }) => {
-  console.log(schedule);
+  console.log("schedule", schedule);
   return (
     <table>
       <thead>

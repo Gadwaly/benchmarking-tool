@@ -1,7 +1,8 @@
 import React from "react";
 import Schedule from "../Schedule";
 
-export default function Schedules({ schedules, schedules1 }) {
+export default function Schedules({ schedules }) {
+  if (schedules.length === 0) return null;
   return (
     <>
       {schedules &&

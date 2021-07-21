@@ -1,15 +1,15 @@
 import { Chart } from "./chart";
-import { MergeData } from "../../MergingService";
 import { useState } from "react";
 import Schedules from "./schedules";
+import { StatisticsChart } from "./statistics_chart";
 
-export function ChartManager({ benchmarks }) {
+export function ChartManager({ mergedBenchmarks, benchmarks, statistics }) {
   const [scoreName, setScoreName] = useState("score");
   const [benchmarksNames, setBenchmarksNames] = useState([]);
   const [checkedState, setCheckedState] = useState(
     new Array(Object.keys(benchmarks).length).fill(false)
   );
-  const mergedBenchmarks = MergeData(benchmarks, benchmarksNames);
+
   const [schedules, setSchedules] = useState([]);
 
   const handleChartClick = (testcaseId) => {
@@ -30,10 +30,9 @@ export function ChartManager({ benchmarks }) {
       return {
         name: scheduleKey.slice(0, -9),
         id: testcaseId,
-        schedule: testcase[schedulesKeys],
+        schedule: testcase[scheduleKey],
       };
     });
-
     setSchedules(_schedules);
   };
 
@@ -60,43 +59,56 @@ export function ChartManager({ benchmarks }) {
 
   return (
     <>
-      {<Schedules schedules={schedules} />}
-      <label className="select" for="select">
-        <select
-          id="select"
-          value={scoreName}
-          onChange={(e) => setScoreName(e.target.value)}
-        >
-          {Object.keys(benchmarks[Object.keys(benchmarks)[0]][0]).map(
-            (key, index) => {
-              if (key !== "testcaseId")
-                return <option value={key}>{key}</option>;
-              return <></>;
-            }
+      <div>
+        <label className="select" for="select">
+          <select
+            id="select"
+            value={scoreName}
+            onChange={(e) => setScoreName(e.target.value)}
+          >
+            {Object.keys(benchmarks[Object.keys(benchmarks)[0]][0]).map(
+              (key, index) => {
+                if (key !== "testcaseId")
+                  return <option value={key}>{key}</option>;
+                return <></>;
+              }
+            )}
+          </select>
+        </label>
+        <Chart
+          data={mergedBenchmarks.mergedBenchmarks}
+          benchmarksNames={benchmarksNames} /*{mergedBenchmarks.benchmarks}*/
+          scoreName={scoreName}
+          handleClick={handleChartClick}
+          type="line"
+        />
+        <StatisticsChart
+          data={Object.values(
+            benchmarksNames
+              .filter((el) => el !== "Bruteforce")
+              .reduce(function (o, k) {
+                o[k] = statistics[k];
+                return o;
+              }, {})
           )}
-        </select>
-      </label>
-      <Chart
-        data={mergedBenchmarks.mergedBenchmarks}
-        benchmarksNames={benchmarksNames} /*{mergedBenchmarks.benchmarks}*/
-        scoreName={scoreName}
-        handleClick={handleChartClick}
-      />
-      {Object.keys(benchmarks).map((benchmark, index) => {
-        return (
-          <li key={index}>
-            <input
-              type="checkbox"
-              id={`custom-checkbox-${index}`}
-              name={benchmark}
-              value={benchmark}
-              checked={checkedState[index]}
-              onChange={() => handleOnChange(index, benchmark)}
-            />
-            <label htmlFor={`custom-checkbox-${index}`}>{benchmark}</label>
-          </li>
-        );
-      })}
+        />
+        {Object.keys(benchmarks).map((benchmark, index) => {
+          return (
+            <li key={index}>
+              <input
+                type="checkbox"
+                id={`custom-checkbox-${index}`}
+                name={benchmark}
+                value={benchmark}
+                checked={checkedState[index]}
+                onChange={() => handleOnChange(index, benchmark)}
+              />
+              <label htmlFor={`custom-checkbox-${index}`}>{benchmark}</label>
+            </li>
+          );
+        })}
+      </div>
+      <div>{<Schedules schedules={schedules} />}</div>
     </>
   );
 }
