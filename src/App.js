@@ -30,8 +30,19 @@ function App() {
   mergedBenchmarks.mergedBenchmarks = mergedBenchmarks.mergedBenchmarks.filter(
     (testcase) => testcase["not-matched"] === undefined
   );
+  mergedBenchmarks.benchmarks.forEach((benchmarkName) => {
+    console.log(
+      benchmarkName,
+      mergedBenchmarks.mergedBenchmarks.reduce(
+        (accumulator, mergedBenchmark) => {
+          return accumulator + mergedBenchmark[benchmarkName + "#score"];
+        },
+        0
+      ) / mergedBenchmarks.mergedBenchmarks.length
+    );
+  });
   console.log(mergedBenchmarks);
-  const statistics = generateStatistics(mergedBenchmarks, 9);
+  const statistics = generateStatistics(mergedBenchmarks, 1.5);
   return (
     // <div class="container py-4">
     //   <div class="row justify-content-center">
